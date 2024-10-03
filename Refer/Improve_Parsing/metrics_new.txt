@@ -1,0 +1,177 @@
+Analysing the file 2106.09685v2.pdf
+Number of CPUs: 1
+Executing the function get_page_data
+Number of pages in the file: 26 and metadata is {'format': 'PDF 1.5', 'title': '', 'author': '', 'subject': '', 'keywords': '', 'creator': 'LaTeX with hyperref', 'producer': 'pdfTeX-1.40.21', 'creationDate': 'D:20211019005713Z', 'modDate': 'D:20211019005713Z', 'trapped': '', 'encryption': None}
+Time taken to execute get_textpage_ocr: 0.019055604934692383
+Time taken to execute extractDICT: 0.0004048347473144531
+Time taken to execute extractWORDS: 0.0005130767822265625
+Time taken to execute find_tables: 0.10814261436462402
+Time taken to execute block_table_data: 5.650520324707031e-05
+Time taken to execute clean_blocks: 0.0034570693969726562
+Time taken to execute get_textpage_ocr: 0.005800724029541016
+Time taken to execute extractDICT: 0.0004601478576660156
+Time taken to execute extractWORDS: 0.0005931854248046875
+Time taken to execute find_tables: 0.1177825927734375
+Time taken to execute block_table_data: 1.0013580322265625e-05
+Time taken to execute clean_blocks: 0.0024385452270507812
+Time taken to execute get_textpage_ocr: 0.005608081817626953
+Time taken to execute extractDICT: 0.0005469322204589844
+Time taken to execute extractWORDS: 0.000553131103515625
+Time taken to execute find_tables: 0.12413740158081055
+Time taken to execute block_table_data: 1.0013580322265625e-05
+Time taken to execute clean_blocks: 0.0027725696563720703
+Time taken to execute get_textpage_ocr: 0.004897594451904297
+Time taken to execute extractDICT: 0.0006513595581054688
+Time taken to execute extractWORDS: 0.0004947185516357422
+Time taken to execute find_tables: 0.11648035049438477
+Time taken to execute block_table_data: 1.1444091796875e-05
+Time taken to execute clean_blocks: 0.0035088062286376953
+Time taken to execute get_textpage_ocr: 0.004606723785400391
+Time taken to execute extractDICT: 0.0004906654357910156
+Time taken to execute extractWORDS: 0.00058746337890625
+Time taken to execute find_tables: 0.16619348526000977
+Time taken to execute block_table_data: 9.775161743164062e-06
+Time taken to execute clean_blocks: 0.0019974708557128906
+Time taken to execute get_textpage_ocr: 0.007436990737915039
+Time taken to execute extractDICT: 0.0010077953338623047
+Time taken to execute extractWORDS: 0.0008080005645751953
+Time taken to execute find_tables: 0.14400053024291992
+Time taken to execute block_table_data: 1.1920928955078125e-05
+Time taken to execute clean_blocks: 0.006898641586303711
+Time taken to execute get_textpage_ocr: 0.004399776458740234
+Time taken to execute extractDICT: 0.0005521774291992188
+Time taken to execute extractWORDS: 0.0004820823669433594
+Time taken to execute find_tables: 0.11034059524536133
+Time taken to execute block_table_data: 1.0013580322265625e-05
+Time taken to execute clean_blocks: 0.003989696502685547
+Time taken to execute get_textpage_ocr: 0.009088277816772461
+Time taken to execute extractDICT: 0.0004317760467529297
+Time taken to execute extractWORDS: 0.0003407001495361328
+Time taken to execute find_tables: 4.724415063858032
+Time taken to execute block_table_data: 4.654243230819702
+Time taken to execute clean_blocks: 0.003156423568725586
+Time taken to execute get_textpage_ocr: 0.004929065704345703
+Time taken to execute extractDICT: 0.0010502338409423828
+Time taken to execute extractWORDS: 0.001859426498413086
+Time taken to execute find_tables: 0.1516115665435791
+Time taken to execute block_table_data: 1.0251998901367188e-05
+Time taken to execute clean_blocks: 0.002281665802001953
+Time taken to execute get_textpage_ocr: 0.006036996841430664
+Time taken to execute extractDICT: 0.0010585784912109375
+Time taken to execute extractWORDS: 0.001611471176147461
+Time taken to execute find_tables: 0.1054544448852539
+Time taken to execute block_table_data: 1.0013580322265625e-05
+Time taken to execute clean_blocks: 0.005152702331542969
+Time taken to execute get_textpage_ocr: 0.05348849296569824
+Time taken to execute extractDICT: 0.0011959075927734375
+Time taken to execute extractWORDS: 0.0011396408081054688
+Time taken to execute find_tables: 4.341167449951172
+Time taken to execute block_table_data: 4.06426215171814
+Time taken to execute clean_blocks: 0.0052068233489990234
+Time taken to execute get_textpage_ocr: 0.10681438446044922
+Time taken to execute extractDICT: 0.0011489391326904297
+Time taken to execute extractWORDS: 0.0014965534210205078
+Time taken to execute find_tables: 1.9608573913574219
+Time taken to execute block_table_data: 1.239776611328125e-05
+Time taken to execute clean_blocks: 0.004904747009277344
+Time taken to execute get_textpage_ocr: 0.004395723342895508
+Time taken to execute extractDICT: 0.0009098052978515625
+Time taken to execute extractWORDS: 0.0014636516571044922
+Time taken to execute find_tables: 0.143385648727417
+Time taken to execute block_table_data: 1.239776611328125e-05
+Time taken to execute clean_blocks: 0.002327442169189453
+Time taken to execute get_textpage_ocr: 0.0035631656646728516
+Time taken to execute extractDICT: 0.0007989406585693359
+Time taken to execute extractWORDS: 0.0011587142944335938
+Time taken to execute find_tables: 0.10389041900634766
+Time taken to execute block_table_data: 1.0013580322265625e-05
+Time taken to execute clean_blocks: 0.0023565292358398438
+Time taken to execute get_textpage_ocr: 0.0034482479095458984
+Time taken to execute extractDICT: 0.0007913112640380859
+Time taken to execute extractWORDS: 0.001252889633178711
+Time taken to execute find_tables: 0.10710763931274414
+Time taken to execute block_table_data: 1.1444091796875e-05
+Time taken to execute clean_blocks: 0.0022215843200683594
+Time taken to execute get_textpage_ocr: 0.003882884979248047
+Time taken to execute extractDICT: 0.0008192062377929688
+Time taken to execute extractWORDS: 0.0011677742004394531
+Time taken to execute find_tables: 0.11185050010681152
+Time taken to execute block_table_data: 1.0251998901367188e-05
+Time taken to execute clean_blocks: 0.002341747283935547
+Time taken to execute get_textpage_ocr: 0.01374197006225586
+Time taken to execute extractDICT: 0.000713348388671875
+Time taken to execute extractWORDS: 0.0008752346038818359
+Time taken to execute find_tables: 6.340930938720703
+Time taken to execute block_table_data: 6.2658421993255615
+Time taken to execute clean_blocks: 0.002664804458618164
+Time taken to execute get_textpage_ocr: 0.004885435104370117
+Time taken to execute extractDICT: 0.0017387866973876953
+Time taken to execute extractWORDS: 0.0021109580993652344
+Time taken to execute find_tables: 0.14704394340515137
+Time taken to execute block_table_data: 1.0967254638671875e-05
+Time taken to execute clean_blocks: 0.003273487091064453
+Time taken to execute get_textpage_ocr: 0.0038940906524658203
+Time taken to execute extractDICT: 0.0008854866027832031
+Time taken to execute extractWORDS: 0.0010042190551757812
+Time taken to execute find_tables: 0.07129621505737305
+Time taken to execute block_table_data: 1.4066696166992188e-05
+Time taken to execute clean_blocks: 0.006996870040893555
+Time taken to execute get_textpage_ocr: 0.003538370132446289
+Time taken to execute extractDICT: 0.0007863044738769531
+Time taken to execute extractWORDS: 0.0007832050323486328
+Time taken to execute find_tables: 0.07279825210571289
+Time taken to execute block_table_data: 2.2411346435546875e-05
+Time taken to execute clean_blocks: 0.004987001419067383
+Time taken to execute get_textpage_ocr: 0.0031671524047851562
+Time taken to execute extractDICT: 0.0007028579711914062
+Time taken to execute extractWORDS: 0.0008053779602050781
+Time taken to execute find_tables: 0.07476568222045898
+Time taken to execute block_table_data: 9.775161743164062e-06
+Time taken to execute clean_blocks: 0.0034339427947998047
+Time taken to execute get_textpage_ocr: 0.005217790603637695
+Time taken to execute extractDICT: 0.0009889602661132812
+Time taken to execute extractWORDS: 0.0009379386901855469
+Time taken to execute find_tables: 0.0933995246887207
+Time taken to execute block_table_data: 9.775161743164062e-06
+Time taken to execute clean_blocks: 0.006455183029174805
+Time taken to execute get_textpage_ocr: 0.006683349609375
+Time taken to execute extractDICT: 0.0010476112365722656
+Time taken to execute extractWORDS: 0.0007796287536621094
+Time taken to execute find_tables: 0.08996057510375977
+Time taken to execute block_table_data: 1.1444091796875e-05
+Time taken to execute clean_blocks: 0.0065500736236572266
+Time taken to execute get_textpage_ocr: 0.005309343338012695
+Time taken to execute extractDICT: 0.0008578300476074219
+Time taken to execute extractWORDS: 0.0009553432464599609
+Time taken to execute find_tables: 0.07969999313354492
+Time taken to execute block_table_data: 1.2874603271484375e-05
+Time taken to execute clean_blocks: 0.004410266876220703
+Time taken to execute get_textpage_ocr: 0.13705921173095703
+Time taken to execute extractDICT: 0.0007302761077880859
+Time taken to execute extractWORDS: 0.0006968975067138672
+Time taken to execute find_tables: 10.269331216812134
+Time taken to execute block_table_data: 9.096971273422241
+Time taken to execute clean_blocks: 0.00435185432434082
+Time taken to execute get_textpage_ocr: 0.4155137538909912
+Time taken to execute extractDICT: 0.0012254714965820312
+Time taken to execute extractWORDS: 0.0007693767547607422
+Time taken to execute find_tables: 6.560191869735718
+Time taken to execute block_table_data: 1.4066696166992188e-05
+Time taken to execute clean_blocks: 0.007517099380493164
+Time taken to execute get_page_data: 61.93499493598938
+Time taken to execute join_tables_accross_pages: 0.0005848407745361328
+Time taken to execute parse_tree: 0.04368948936462402
+Time taken to execute table2text_task: 0.0007965564727783203
+Time taken to execute overall file parsing: 107.8686990737915
+
+Overall Conclusion:
+get_textpage_ocr: 0.846463 seconds
+extractDICT: 0.021996 seconds
+extractWORDS: 0.025241 seconds
+find_tables: 36.436236 seconds
+block_table_data: 80.658048 seconds
+clean_blocks: 0.105653 seconds
+get_page_data: 61.934995 seconds
+join_tables_accross_pages: 0.000585 seconds
+parse_tree: 0.043689 seconds
+table2text_task: 0.000797 seconds
