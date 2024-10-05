@@ -1,119 +1,85 @@
-
+import os
 import cv2
 import numpy as np
-import os
 from sklearn.cluster import KMeans
+import shutil
 
-# Path setup (Replace with actual paths)
-court_img_path = 'output.jpg'
-top_players_path = 'two_players_top/'
-bottom_players_path = 'two_players_bot/'
-output_folder = 'output_players/'
+# Paths to input folders
+top_folder = 'two_players_top'
+bot_folder = 'two_players_bot'
+court_image_path = 'output.jpg'
 
-# Create output directory if not exists
-if not os.path.exists(output_folder):
-    os.makedirs(output_folder)
+# Create output folder structure
+output_dir = 'output'
+players = ['player1', 'player2', 'player3', 'player4']
+if os.path.exists(output_dir):
+    shutil.rmtree(output_dir)  # Clean existing output folder
+os.makedirs(output_dir)
+for player in players:
+    os.makedirs(os.path.join(output_dir, player))
 
-# Create subfolders for each player
-for i in range(1, 5):
-    os.makedirs(f'{output_folder}/player_{i}', exist_ok=True)
-
-# Function to extract average background color (assumed to be the most common in the image)
-def extract_average_color(image):
-    h, w, _ = image.shape
-    image_reshaped = image.reshape((h * w, 3))
-    avg_color = np.mean(image_reshaped, axis=0)
-    return avg_color
-
-# Function to subtract the background (average court color)
-def subtract_average_color(image, avg_color):
-    # Convert the image to float32 for more accurate subtraction
-    image_float = np.float32(image)
-    avg_color_float = np.float32(avg_color)
-
-    # Subtract the average background color from the image
-    subtracted = cv2.subtract(image_float, avg_color_float)
-
-    # Clip values to stay within 0-255 and convert back to uint8
-    subtracted = np.clip(subtracted, 0, 255).astype(np.uint8)
+# Function to perform background subtraction using absolute difference
+def subtract_background(img, background):
+    # Resize background to match image size if necessary
+    background = cv2.resize(background, (img.shape[1], img.shape[0]))
     
-    return subtracted
+    # Convert to grayscale
+    img_gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
+    background_gray = cv2.cvtColor(background, cv2.COLOR_BGR2GRAY)
+    
+    # Perform absolute difference
+    diff = cv2.absdiff(img_gray, background_gray)
+    
+    # Threshold the difference to obtain a binary mask (players vs background)
+    _, mask = cv2.threshold(diff, 50, 255, cv2.THRESH_BINARY)
+    
+    # Optional: Morphological operations to clean the mask
+    kernel = np.ones((5, 5), np.uint8)
+    mask = cv2.morphologyEx(mask, cv2.MORPH_CLOSE, kernel)
+    
+    return mask
 
-# Function to extract dominant colors from an image using KMeans clustering
-def extract_dominant_colors(image, k=2):
-    # Reshape the image to a 2D array of pixels
-    pixels = image.reshape(-1, 3)
+# Function to process images, subtract background, and classify players
+def process_images(folder_path, player1_folder, player2_folder, court_image):
+    images = os.listdir(folder_path)
     
-    # Apply KMeans clustering to find k dominant colors
-    kmeans = KMeans(n_clusters=k)
-    kmeans.fit(pixels)
-    colors = kmeans.cluster_centers_
-    
-    # Return the cluster colors
-    return colors.astype(int)
-
-# Function to classify images into player folders based on dominant color separation
-def classify_and_save(image_path, color_groups):
-    img = cv2.imread(image_path)
-    
-    # Extract the average background color from the image
-    avg_color = extract_average_color(img)
-    
-    # Subtract the background color
-    fg_img = subtract_average_color(img, avg_color)
-    
-    # Extract the dominant colors of the foreground image (player)
-    extracted_colors = extract_dominant_colors(fg_img, k=2)
-    
-    # Compare the dominant colors with current color groups and classify accordingly
-    for i, group in enumerate(color_groups):
-        for extracted_color in extracted_colors:
-            if np.linalg.norm(extracted_color - group) < 50:  # Threshold for color similarity
-                return i + 1
-    
-    return None
-
-# Function to process images in a folder and segregate them based on color
-def process_images(player_folder, color_groups):
-    for filename in os.listdir(player_folder):
-        if filename.endswith(".jpg") or filename.endswith(".png"):
-            img_path = os.path.join(player_folder, filename)
-            
-            # Classify image based on color comparison
-            player_class = classify_and_save(img_path, color_groups)
-            
-            if player_class:
-                output_path = os.path.join(output_folder, f'player_{player_class}', filename)
-                img = cv2.imread(img_path)
-                cv2.imwrite(output_path, img)
-            else:
-                print(f"Could not classify image: {filename}")
-
-# Generate the initial color groups (reference colors for segregation)
-def initialize_color_groups():
-    color_groups = []
-    # Process some initial images to extract dominant colors (for each player)
-    example_images = [os.path.join(top_players_path, f) for f in os.listdir(top_players_path)[:2]] + \
-                     [os.path.join(bottom_players_path, f) for f in os.listdir(bottom_players_path)[:2]]
-    
-    for img_path in example_images:
+    for img_name in images:
+        img_path = os.path.join(folder_path, img_name)
         img = cv2.imread(img_path)
-        dominant_colors = extract_dominant_colors(img, k=2)
-        color_groups.append(dominant_colors[0])  # Assume each player has a distinct color for their shirt
 
-    return color_groups
+        # Step 1: Background subtraction
+        mask = subtract_background(img, court_image)
+        
+        # Step 2: Apply the mask to get non-background (player) pixels
+        player_img = cv2.bitwise_and(img, img, mask=mask)
+        
+        # Step 3: Reshape the non-zero pixels for clustering (no modification to the original image)
+        non_zero_pixels = player_img[mask > 0].reshape((-1, 3))  # Only player pixels
+        
+        # Step 4: Apply KMeans to classify players (2 clusters for 2 players)
+        kmeans = KMeans(n_clusters=2, random_state=42)
+        kmeans.fit(non_zero_pixels)
+        labels = kmeans.labels_
+        
+        # Step 5: Assign the image to player 1 or player 2 based on the dominant cluster
+        # Count the labels to determine which player is dominant in the image
+        label_counts = np.bincount(labels)
+        dominant_label = np.argmax(label_counts)  # The dominant player in the image
+        
+        # Classify the image into the correct folder without modifying it
+        if dominant_label == 0:
+            shutil.copy(img_path, os.path.join(player1_folder, img_name))
+        else:
+            shutil.copy(img_path, os.path.join(player2_folder, img_name))
 
-# Main driver function
-def main():
-    # Initialize color groups from example images
-    color_groups = initialize_color_groups()
-    
-    # Process top and bottom player folders
-    print("Processing top two players...")
-    process_images(top_players_path, color_groups[:2])
-    
-    print("Processing bottom two players...")
-    process_images(bottom_players_path, color_groups[2:])
+# Load court background image
+court_image = cv2.imread(court_image_path)
+if court_image is None:
+    print(f"Error: Could not load court image from {court_image_path}")
+    exit(1)
 
-if __name__ == "__main__":
-    main()
+# Process the top and bottom folder images without modifying them
+process_images(top_folder, os.path.join(output_dir, 'player1'), os.path.join(output_dir, 'player2'), court_image)
+process_images(bot_folder, os.path.join(output_dir, 'player3'), os.path.join(output_dir, 'player4'), court_image)
+
+print("Classification complete! Original images are moved into their respective folders.")
