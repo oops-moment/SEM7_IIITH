@@ -1,131 +1,137 @@
-# Youtube , instagram, spotify all programmed in python
+# Introduction to Python Basics
+# Examples of Python usage in popular platforms: YouTube, Instagram, and Spotify are all programmed in Python.
 
+# Printing "Hello World" to the console
 print("Hello World")
 
-#  declaring variables
+# Declaring variables
 age = 20
 price = 19.95
-print(age)
-print(price)
 
+# Printing variables
+print(age)   # Output: 20
+print(price)  # Output: 19.95
+
+# String variables
 first_name = "Prisha"
 last_name = "Arora"
 
-bool_value= True
+# Boolean variable
+bool_value = True
 
-first_name ="John"
+# Reassigning variables
+first_name = "John"
 last_name = "Smith"
-
-age= 20
-
+age = 20
 new_patient = True
 
-# name = input("What is the patients name ? ")
-# print("name" + name)
+# Uncomment below lines for input and concatenation example:
+# name = input("What is the patient's name? ")
+# print("Patient's name: " + name)
 
-#  three types of data : number , string , boolean
-birth_year = input("Enter your birth year: ")  #-->always a string 
-print(type(birth_year))
+# Data types: numbers, strings, booleans
+# Taking user input (always stored as string)
+birth_year = input("Enter your birth year: ")
+print(type(birth_year))  # Output: <class 'str'>
 
-age= 2024-int(birth_year)
-print(age)
+# Converting birth year to integer and calculating age
+age = 2024 - int(birth_year)
+print(age)  # Output: Calculated age
 
-first_number=input("Enter the first number")
-second_number= input("Enter the second number")
+# Taking two numeric inputs and adding them
+first_number = input("Enter the first number: ")
+second_number = input("Enter the second number: ")
 
-first_number=float(first_number)
-second_number=float(second_number)
+# Converting input to float for mathematical operations
+first_number = float(first_number)
+second_number = float(second_number)
 
-print("additive value "+ str(first_number+second_number))
+# Printing the sum of the two numbers
+print("Additive value: " + str(first_number + second_number))
 
-#  strings 
-
+# Working with strings
 course = "Python for beginners"
-#  methods to specific to string
 
-print(course.upper())
-print(course)
+# String methods
+print(course.upper())  # Converts string to uppercase
+print(course.lower())  # Converts string to lowercase
+print(course)          # Original string remains unchanged
 
-print(course.find('t'))
+# Finding a character in a string
+print(course.find('t'))  # Returns index of first occurrence of 't'
 
-print(course.replace('for','4'))
+# Replacing part of a string
+print(course.replace('for', '4'))  # Replaces 'for' with '4'
+print(course.replace('g', '0'))    # Replaces 'g' with '0'
 
-#  note that in all this original string remained unchanged that is that remains immutable irrespective
+# Checking for a substring within a string
+print('Python' in course)  # Checks if 'Python' is in the string
 
-print(course.replace('g','0'))
+# Arithmetic operations
+print(10 / 3)  # Division: returns 3.333...
+print(10 // 3) # Integer division: returns 3
 
-print('Python' in course)
-
-print(10/3)
-
-print(10//3)
-
-
+# Augmented assignment
 X = 10
-X = X + 3
-X += 3
-X -= 3
+X += 3  # Same as X = X + 3
+X -= 3  # Same as X = X - 3
+print(X)  # Output: 10
 
-print(X)
+# Operator precedence
+X = 10 + 3 * 2  # Multiplication happens first
+print(X)  # Output: 16
 
+X = (10 + 3) * 2  # Parentheses change the precedence
+print(X)  # Output: 26
 
-#  Operator Precedence
+# Comparison operators
+print(3 > 2)   # True
+print(3 == 2)  # False
+print(3 != 2)  # True
 
-X = 10 + 3*2
-print(X)
+# Logical operators
+X = 30
+print(not (X > 10 and X < 40))  # True, because both conditions are True
 
-X=(10+3)*2
-print(X)
-
-X= 3 >2
-print(X)
-
-X= 3==2
-print(X)
-
-#  operators are > >= < <= == !=
-
-# logical operators 
-
-X=30
-print(not (X >10 and X<40))
-
-#  and when both expression are true, or whren atleast one expression is truye
-
-if (True):
+# if-else statement
+if True:
     print("yo")
     print("yo2")
 
-
-# concept of while lop
-
+# While loop example
 i = 1
-while i<=5 : 
-    print(i * '*')
-    i+=1
+while i <= 5:
+    print(i * '*')  # Prints '*' multiplied by the current value of i
+    i += 1
 
-names = ['Prisha','Laksh','Chicl00']
-# print(names)
-# print(names[1])
-# print(names[-2])
-print(names[:1])
-print(names[1:])
-print(names[0:2]) #just that you dont include end index , but you include the first index , basically two index 
+# Working with lists
+names = ['Prisha', 'Laksh', 'Chicl00']
 
+# List slicing
+print(names[:1])  # ['Prisha']
+print(names[1:])  # ['Laksh', 'Chicl00']
+print(names[0:2]) # ['Prisha', 'Laksh']
 
-numbers=[1,2,3,2]
-print(numbers)
-numbers.insert(2,10)
-
-
-print(10 in numbers)
-for i in numbers:
-    print(i)
-
-numbers= range(5)
+# More list operations
+numbers = [1, 2, 3, 2]
 print(numbers)
 
-numbers = range(5,10,3)
+# Insert value 10 at index 2
+numbers.insert(2, 10)
+print(numbers)  # [1, 2, 10, 3, 2]
 
+# Checking if 10 exists in the list
+print(10 in numbers)  # True
+
+# Iterating over a list
+for number in numbers:
+    print(number)
+
+# Working with range
+numbers = range(5)
+print(numbers)  # range(0, 5)
+
+# Range with start, stop, and step
+numbers = range(5, 10, 3)
 for num in numbers:
-    print(num)
+    print(num)  # Outputs 5 and 8
