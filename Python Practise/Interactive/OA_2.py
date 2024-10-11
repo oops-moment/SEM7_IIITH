@@ -25,11 +25,11 @@ class Solution:
                         dispute_ID=f"{current_file}{data['transaction']}"
 
                         if(data['reason']=="withdrawn"):
-                            if dispute_ID not in withdrawn or data > withdrawn[dispute_ID]:
+                            if dispute_ID not in withdrawn or date > withdrawn[dispute_ID]:
                                 withdrawn[dispute_ID]=date
 
                         else:
-                            if dispute_ID not in final_dict or data < final_dict[dispute_ID]['date']:
+                            if dispute_ID not in final_dict or date < final_dict[dispute_ID]['date']:
                                 final_dict[dispute_ID]={
                                     'merchant':data['merchant'],
                                     'amount':data['amount'],
