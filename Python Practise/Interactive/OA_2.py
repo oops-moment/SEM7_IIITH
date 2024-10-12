@@ -39,8 +39,8 @@ class Solution:
                                 }
     
         for disputeID,date in withdrawn.items():
-            if dispute_ID in final_dict and date > final_dict[dispute_ID]['date']:
-                del final_dict[dispute_ID]
+            if disputeID in final_dict and date > final_dict[disputeID]['date']:
+                del final_dict[disputeID]
         
         out = []
         for te, data in sorted(final_dict.items()):
