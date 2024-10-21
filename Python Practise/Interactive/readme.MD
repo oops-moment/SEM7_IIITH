@@ -212,3 +212,7 @@ We want to find the cost to ship an item directly from X to Y.
 
 Part 2: Indirect Shipping Cost
 In this part, we need to calculate the cost if the shipment takes an intermediate route. For example, shipping from X to Y via another location (Z). For instance, shipping from US to UK via CA would have the cost: US -> CA cost + CA -> UK cost.
+
+_____
+
+https://leetcode.com/discuss/interview-question/4595354/Stripe-Intern-Interview-Question
