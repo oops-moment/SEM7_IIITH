@@ -168,3 +168,30 @@ Additional Constraints:
 	2.	Edge Cases:
 	•	Transactions with identical timestamps should be processed in the order they appear.
 	•	All commands should process efficiently, even with thousands of transactions per second.
+
+-----
+
+Coding Round The interviewer was fair enough. I just didn't complete enough parts of the question. The frustrating part was 126 lines of markdown explaining the question. Unreasonable to expect someone to parse through that long of a
+problem description for a 30min problem. Given a String, split it into major parts separated by special char /'. For each major part that's split by '/', we can
+further split it into minor parts separated by'!.
+#### Example 1
+# str = stripe.com/payments/checkout/customer.john.doe
+# minor_parts = 2
+# after Part 1 compression
+#=>
+# s4e.c1m/pos/c6t/cr.j2n.dle
+# after Part 2 compression
+#=>
+# s4e.c1m/p6s/c6t/c6r.j5e
+#### Example 2
+# Given:
+# str = www.api.stripe.com/checkout
+# minor_parts = 3
+# (after Part 1 compression)
+# =>
+# w1w.a1i.s4e.c1m/c6t
+# (then after Part 2 compression)
+#=>
+# w1w.ali.s/m/c6t
+
+The question is to compress the string. The rule is that, for each major part, it contains at most <minor_parts> minor parts. And for each minor parts, you need to compress it in the format of <heading_letter><letter_count_in_betwee><tailing_letter>. The edge case is, what if the minor part contains less than 3 letters? Like the first minor part of m.stripe.com/checkout.
