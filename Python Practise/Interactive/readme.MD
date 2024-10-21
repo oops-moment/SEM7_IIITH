@@ -195,3 +195,20 @@ further split it into minor parts separated by'!.
 # w1w.ali.s/m/c6t
 
 The question is to compress the string. The rule is that, for each major part, it contains at most <minor_parts> minor parts. And for each minor parts, you need to compress it in the format of <heading_letter><letter_count_in_betwee><tailing_letter>. The edge case is, what if the minor part contains less than 3 letters? Like the first minor part of m.stripe.com/checkout.
+
+_______
+
+art 1: Direct Shipping Cost
+Given an input string that describes various shipping routes and their associated costs, we need to extract the direct cost from a given origin (X) to a destination (Y). The input string contains shipping routes in the format:
+
+"US,UK,UPS,5:US,CA,FedEx,3:CA,UK,DHL,7"
+Here, each route is separated by a colon (:), and each route consists of:
+
+Origin (e.g., US)
+Destination (e.g., UK)
+Shipping Company (e.g., UPS)
+Shipping Cost (e.g., 5)
+We want to find the cost to ship an item directly from X to Y.
+
+Part 2: Indirect Shipping Cost
+In this part, we need to calculate the cost if the shipment takes an intermediate route. For example, shipping from X to Y via another location (Z). For instance, shipping from US to UK via CA would have the cost: US -> CA cost + CA -> UK cost.
