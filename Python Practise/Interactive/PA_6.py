@@ -37,7 +37,7 @@ class TextSearch:
 
             # Check if the next word in query exists within k distance from previous word
             for index in self.word_indices[word]:
-                if index > start_index and index - start_index <= k + i:  # Allow k distance between words
+                if index > start_index and index - start_index <= k :  # Allow k distance between words
                     next_word_found = True
                     start_index = index  # Move to the next word's position
                     break
