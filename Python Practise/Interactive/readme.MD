@@ -216,3 +216,9 @@ In this part, we need to calculate the cost if the shipment takes an intermediat
 _____
 
 https://leetcode.com/discuss/interview-question/4595354/Stripe-Intern-Interview-Question
+
+Part 1: Parse a string in the format "USD:CAD:DHL:5,USD:GBP:FEDX:10", representing currency conversion rates from a source to a target currency and the associated shipping method. Write a method to convert a given amount from one currency to another. Only direct conversions are allowed.
+
+Part 2: Write a method that returns the cost and shipping methods involved, allowing at most one hop in the conversion from one currency to another.
+
+Part 3: Write a method that returns the minimum cost and involved shipping methods, allowing at most one hop for the conversion.
