@@ -222,3 +222,11 @@ Part 1: Parse a string in the format "USD:CAD:DHL:5,USD:GBP:FEDX:10", representi
 Part 2: Write a method that returns the cost and shipping methods involved, allowing at most one hop in the conversion from one currency to another.
 
 Part 3: Write a method that returns the minimum cost and involved shipping methods, allowing at most one hop for the conversion.
+
+You are given a Python class Inventory, which is supposed to simulate an inventory management system for a store. The class should allow users to:
+	1.	Add items to the inventory with a specified price and quantity.
+	2.	Remove items from the inventory, reducing the quantity or printing an error if there’s not enough stock.
+	3.	Calculate the total value of all items in the inventory.
+	4.	Check the quantity of a specific item in the inventory.
+
+However, the code has a few bugs and inefficiencies. Your task is to:
