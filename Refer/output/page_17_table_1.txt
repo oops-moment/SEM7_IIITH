@@ -1,0 +1,53 @@
+Page 17, Table 1
+unions for bargaining: , w, e cannot predi, ct what imp, act increased, union density, in this workfor, ce cou, ld have on our op, erations.
+Regulatory and L: eg, al Risks
+Changes in the re: gu, latory frame, work und, er which we, operate co, uld adversel, y affe, ct our busines, s
+prospects or resu: lts, of operation, s.
+Our domestic operat: ion, s are subject to, regulation, by the FCC a, nd other fed, eral, state, and, local, agencies, and our, international
+operations are regul: ate, d by various for, eign gover, nments and in, ternational b, odies. These re, gulator, y regimes freque, ntly restrict or
+impose conditions o: n o, ur ability to op, erate in de, signated area, s and provid, e specified pro, ducts, or services. We a, re frequently
+required to maintain: lic, enses for our o, perations, and conduct o, ur operation, s in accordanc, e with, prescribed stand, ards. We are
+often involved in reg: ula, tory and other g, overnmen, tal proceeding, s or inquiries, related to the a, pplica, tion of these requi, rements. It is
+impossible to predi: ct, with any certai, nty the ou, tcome of pen, ding federal, and state reg, ulator, y proceedings re, lating to our
+operations, or the re: vie, ws by federal o, r state cou, rts of regulator, y rulings. Wi, thout relief, exis, ting la, ws and regulation, s may inhibit
+our ability to expan: d o, ur business an, d introduc, e new produc, ts and servic, es. Similarly, w, e can, not guarantee th, at we will be
+successful in obtaini: ng, the licenses ne, eded to ca, rry out our bu, siness plan, or in maintainin, g our e, xisting licenses., For example,
+the FCC grants wirel: es, s licenses for te, rms gener, ally lasting 10, years, subje, ct to renewal. T, he los, s of, or a material, limitation on,
+certain of our license: s c, ould have a ma, terial adve, rse effect on o, ur business,, results of opera, tions, and financial cond, ition.
+New laws or regulat: ion, s or changes t, o the exist, ing regulatory, framework a, t the federal, st, ate, a, nd local, or intern, ational level,
+such as those desc: rib, ed below, thos, e that ince, ntivize busine, ss models o, r technologies, differe, nt from ours or, requirements
+limiting our ability to: co, ntinue or disco, ntinue serv, ice to custom, ers could res, trict the ways in, whic, h we manage our, wireline and
+wireless networks an: d, operate our bus, inesses, im, pose addition, al costs, imp, air revenue opp, ortunit, ies, and potentiall, y impede our
+ability to provide ser: vice, s in a manner, that would, be attractive to, us and our, customers.
+• Privacy an: d d, ata protection, – We are, subject to fe, deral, state, and internation, al law, s related to priva, cy and data
+protection.: In, particular, the, California, Consumer Pri, vacy Act, E, urope's Genera, l Data, Protection Regu, lation and a
+number of: oth, er privacy law, s recently, adopted by o, ther states, and countries i, nclude, significant pena, lties for non-
+compliance: . G, enerally, attent, ion to priv, acy and data, security req, uirements is inc, reasin, g at all levels of, government
+globally, an: d, privacy-related, legislation, has been in, troduced or, is under cons, iderati, on in many loca, tions. These
+regulations: co, uld have a signi, ficant impa, ct on our busi, nesses.
+• Regulation: of, broadband inte, rnet acces, s services – I, n its 2015 Ti, tle II Order, the, FCC, nullified its longs, tanding "light
+touch" ap: pro, ach to regul, ating broa, dband intern, et access, services and, "recl, assified" these, services as
+telecommu: nic, ations services, subject to, utilities-style c, ommon carr, iage regulation., The, FCC repealed the, 2015 Title II
+Order in D: ece, mber 2017, an, d returned, to its tradition, al light-touc, h approach for, these, services. The 20, 17 order has
+been affirm: ed, in part by the, D.C. Circu, it but may be, revisited by, the FCC or by, Congr, ess. Several stat, es have also
+adopted or: are, considering a, dopting law, s or executive, orders that, would impose n, et ne, utrality and other, requirements
+on some o: f o, ur services (in, some cas, es different fr, om the FCC’, s 2015 rules)., Althou, gh some of thes, e have been
+challenged: in, court, the ultima, te enforce, ability and effe, ct of these st, ate rules is unc, ertain.
+• "Open Acc: ess, " – We hold, certain wir, eless licenses, that require, us to comply, with, so-called "open, access" FCC
+regulations,: w, hich generally r, equire lice, nsees of partic, ular spectrum, to allow custo, mers t, o use devices and, applications
+of their choi: ce., Moreover, cert, ain service, s could be su, bject to confli, cting regulation, by the, FCC and/or vari, ous state and
+local author: itie, s, which could, significantl, y increase the, cost of imple, menting and int, roduci, ng new services.
+• Climate-Rel: ate, d Regulation a, nd Policy –, Due to the n, ature of our o, perations, we h, ave b, een, and expect t, o continue to
+be impacte: d b, y regulatory d, evelopmen, ts related to, climate chan, ge, including, f, or exa, mple, the direct, regulation of
+greenhouse: g, as emissions o, r carbon p, olicies that co, uld result in, a tax on such, emiss, ions. In addition,, policy-driven
+changes in: th, e prices of fuel, or energy, in geographi, es in which w, e operate coul, d mak, e it more expen, sive for us to
+purchase e: ner, gy to power ou, r networks, and data cen, ters, and an, y increase in ta, xes on, fuel could increa, se our costs
+associated: wit, h operating tho, se vehicles, in our fleet th, at are depend, ent on tradition, al fuel, s.
+These developments: a, nd the further r, egulation o, f broadband,, wireless, and, our other activ, ities a, nd any related co, urt decisions
+could result in signifi: can, t increases in, costs for us, or restrict our, ability to co, mpete in the ma, rketpl, ace and limit the r, eturn we can
+expect to achieve on: pa, st and future in, vestments, in our network, s.
+We are subject to: a, substantial a, mount of, litigation, w, hich could, require us to, pay, significant dam, ages or
+We are subject to a: su, bstantial amoun, t of litigati, on and claims, in arbitration, , including, but, not lim, ited to, sharehol, der derivative
+suits, patent infring: em, ent lawsuits, w, age and, hour class ac, tions, contra, ct and comme, rcial c, laims, personal i, njury claims,
+property claims, env: iro, nmental claims,, and lawsu, its relating to, our advertisin, g, sales, billing, and c, ollection practice, s. In addition,
+our wireless busines: s a, lso faces perso, nal injury a, nd wrongful d, eath lawsuits, relating to alle, ged he, alth effects of wir, eless phones

@@ -1,0 +1,47 @@
+Page 63, Table 1
+disaggregated an: d pooled by the, following custome, r groups:, consumer, sm, all and mediu, m business, g, lobal enter, prise, public
+sector and whole: sale. For wireless, service receivab, les and w, ireline consum, er and small a, nd medium bu, siness rec, eivables, the
+allowance is calcu: lated based on, a 12 month rolling, average, write-off balan, ce multiplied by, the average, life-cycle o, f an account
+from billing to writ: e-off. The risk of, loss is assessed, over the, contractual life, of the receiva, bles and we a, djust the h, istorical loss
+amounts for curre: nt and future con, ditions based on, managem, ent’s qualitativ, e consideration, s. For global, enterprise,, public sector
+and wholesale wi: reline receivable, s, the allowance, for credit, losses is bas, ed on historica, l write-off ex, perience a, nd individual
+customer credit ri: sk, as applicable., We consider mult, iple facto, rs in determini, ng the allowanc, e as discusse, d above.
+Inventory consists: of wireless and, wireline equipme, nt held fo, r sale, which i, s carried at the, lower of cost, (determine, d principally
+on either an avera: ge cost or first-in, , first-out basis) o, r net reali, zable value.
+Plant and Depr: eciation
+We record prope: rty, plant and eq, uipment at cost., Property,, plant and equ, ipment are ge, nerally deprec, iated on a, straight-line
+Leasehold improv: ements are amo, rtized over the sh, orter of t, he estimated li, fe of the impro, vement or th, e remaining, term of the
+related lease, calc: ulated from the t, ime the asset was, placed in, service.
+When depreciable: assets are retire, d or otherwise di, sposed of, , the related co, st and accumu, lated depreci, ation are de, ducted from
+the property, plan: t and equipmen, t accounts and a, ny gains, or losses on, disposition are, recognized, in Selling,, general and
+administrative exp: ense.
+We capitalize and: depreciate netw, ork software pur, chased or, developed wi, thin property, p, lant and equi, pment ass, ets. We also
+capitalize interest: associated with, the acquisition or, construct, ion of network, -related assets, . Capitalized i, nterest is r, eported as a
+reduction in intere: st expense and d, epreciated as par, t of the c, ost of the netw, ork-related asse, ts.
+Computer Soft: ware and Clou, d Computing C, osts
+We capitalize the: cost of internal-, use network and, non-netw, ork software a, nd defer the co, sts associate, d with clou, d computing
+arrangements tha: t have a useful lif, e and term in exc, ess of one, year. Subseq, uent additions,, modifications, or upgrade, s to internal-
+use network and: non-network soft, ware are capitali, zed only, to the extent t, hat they add si, gnificant new, functionali, ty. Planning,
+software mainten: ance and training, costs for internal-, use softw, are and cloud, computing arra, ngements are, expensed, in the period
+in which they are: incurred. We c, apitalize interest, associate, d with the dev, elopment of in, ternal-use ne, twork and, non-network
+software. Capitali: zed non-network, internal-use soft, ware cos, ts are amortiz, ed using the s, traight-line m, ethod over, a period of
+7 years and are i: ncluded in Other, intangible assets, , net in o, ur consolidate, d balance shee, ts. Costs incu, rred in imp, lementing a
+cloud computing: arrangement are, deferred during, the appli, cation-develop, ment stage an, d recorded as, Prepaid e, xpense and
+other in our cons: olidated balance, sheets. Once a, project i, s substantially, complete and, ready for its, intended u, se, we stop
+deferring the relat: ed cloud computi, ng arrangement c, osts.
+For a discussion: of our impairment, policy for capitali, zed non-n, etwork softwa, re costs, see ", Goodwill and, Other Intan, gible Assets"
+below. See Note: 4 for additional in, formation of inter, nal-use n, on-network so, ftware reflected, in our conso, lidated bal, ance sheets.
+Similar to capitali: zed software cos, ts, deferred costs, associat, ed with cloud, computing arra, ngements ar, e subject to, impairment
+Goodwill and O: ther Intangibl, e Assets
+Goodwill is the ex: cess of the acqui, sition cost of busi, nesses o, ver the fair valu, e of the identifi, able net asse, ts acquired, . Impairment
+testing for goodwi: ll is performed an, nually in the fourt, h quarter, or more freque, ntly if impairme, nt indicators a, re present, .
+To determine if go: odwill is potentia, lly impaired, we h, ave the o, ption to perfor, m a qualitative, assessment., However, w, e may elect
+to bypass the qua: litative assessm, ent and perform a, quantitat, ive impairment, test even if no, indications o, f a potentia, l impairment
+exist. It is our poli: cy to perform qua, ntitative impairme, nt assess, ment at least, every three yea, rs.
+Under the qualitat: ive assessment,, we consider seve, ral factor, s, including the, business ente, rprise value o, f the report, ing unit from
+the last quantitati: ve test and the, excess of fair val, ue over c, arrying value f, rom this test,, macroeconom, ic conditio, ns (including
+changes in intere: st rates and dis, count rates), indu, stry and, market consi, derations (inclu, ding industry, revenue a, nd Earnings
+before interest, ta: xes, depreciatio, n and amortizatio, n (EBITD, A) margin res, ults, projection, s and recent, merger an, d acquisition
+activity), the recen: t and projected f, inancial performan, ce of the, reporting unit,, as well as othe, r factors.
+The quantitative i: mpairment test fo, r goodwill is perfo, rmed at t, he reporting u, nit level and co, mpares the fa, ir value of t, he reporting
+unit (calculated u: sing a combinat, ion of a market, approach, and a discou, nted cash flow, method, as, a form of, the income

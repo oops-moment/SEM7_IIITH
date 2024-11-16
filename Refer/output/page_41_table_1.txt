@@ -1,0 +1,45 @@
+Page 41, Table 1
+consisted of foreign: denominated d, ebt, primarily Eur, o and British Po, und Sterling. We, have ent, ered into c, ros, s curr, ency swaps on
+our foreign denomin: ated debt in or, der to fix our futu, re interest and p, rincipal paymen, ts in U.S., dollars an, d m, itigat, e the impact of
+foreign currency tran: saction gains o, r losses. See "M, arket Risk" for ad, ditional informa, tion.
+Other, net financing: activities dur, ing 2021 includ, es $320 million, in payments r, elated to, vendor f, inan, cing, arrangements,
+$161 million in post: ings of derivat, ive collateral an, d early debt red, emption costs., See Not, e 15 to th, e c, onsoli, dated financial
+statements for additi: onal informatio, n on the early de, bt redemption co, sts.
+During the third quar: ter of 2021, ou, r Board of Directo, rs increased our, quarterly divide, nd paym, ent by 2.0%, to, $0.64, 00 per share.
+As in prior periods,: dividend pay, ments were a si, gnificant use of, capital resourc, es. Durin, g 2021,, we, paid $, 10.4 billion in
+As of December 31,: 2022, the carr, ying value of our, asset-backed de, bt was $20.0 bil, lion. Our, asset-bac, ked, debt i, ncludes Asset-
+Backed Notes (ABS: Notes) issued, to third-party inv, estors (Investors, ) and loans (AB, S Financ, ing Faciliti, es), receiv, ed from banks
+and their conduit fac: ilities (collectiv, ely, the Banks)., Our consolidated, asset-backed d, ebt bank, ruptcy rem, ote, legal, entities (each,
+an ABS Entity or c: ollectively, the, ABS Entities) is, sue the debt or, are otherwise, party to, the trans, actio, n doc, umentation in
+connection with our: asset-backed, debt transactions, . Under the term, s of our asset-, backed d, ebt, Cellco, Pa, rtners, hip (Cellco), a
+wholly-owned subsi: diary of the Co, mpany, and cer, tain other Comp, any affiliates (c, ollectivel, y, the Orig, ina, tors) t, ransfer device
+payment plan agree: ment receivabl, es and certain ot, her receivables (, collectively refe, rred to as, certain re, cei, vables, ) to one of the
+ABS Entities, which: in turn transfe, rs such receivab, les to another A, BS Entity that, issues th, e debt. Ve, rizo, n ent, ities retain the
+equity interests and: residual intere, sts, as applicable, , in the ABS En, tities, which rep, resent th, e rights to, all, funds, not needed to
+make required paym: ents on the ass, et-backed debt a, nd other related, payments and e, xpenses.
+Our asset-backed d: ebt is secured, by the transferre, d receivables an, d future collectio, ns on su, ch receiva, ble, s. The, se receivables
+transferred to the A: BS Entities and, related assets,, consisting prima, rily of restricted, cash, wil, l only be, avai, lable, for payment of
+asset-backed debt: and expenses, related thereto,, payments to th, e Originators in, respect, of additio, nal, trans, fers of certain
+receivables, and ot: her obligations, arising from ou, r asset-backed, debt transactio, ns, and, will not be, av, ailable, to pay other
+obligations or claim: s of Verizon’s, creditors until th, e associated a, sset-backed de, bt and ot, her obliga, tion, s are, satisfied. The
+Investors or Banks,: as applicable,, which hold our as, set-backed debt, have legal reco, urse to th, e assets s, ecu, ring th, e debt, but do
+not have any recou: rse to Verizon, with respect to t, he payment of, principal and int, erest on, the debt., Und, er a, parent support
+agreement, the Com: pany has agre, ed to guarantee, certain of the pa, yment obligatio, ns of Cell, co and th, e Or, iginat, ors to the ABS
+Cash collections on: the receivables, collateralizing o, ur asset-backed, debt securities, are requir, ed at cert, ain, specifi, ed times to be
+placed into segrega: ted accounts., Deposits to the, segregated acc, ounts are consi, dered re, stricted ca, sh, and a, re included in
+Prepaid expenses an: d other and Ot, her assets in our, consolidated ba, lance sheets.
+Proceeds from our: asset-backed, debt transactions, are reflected i, n Cash flows fr, om finan, cing activi, ties, in ou, r consolidated
+statements of cash f: lows. The asse, t-backed debt iss, ued is included, in Debt maturin, g within o, ne year an, d L, ong-te, rm debt in our
+consolidated balance: sheets.
+See Note 7 to the co: nsolidated fina, ncial statements f, or additional info, rmation.
+Long-Term Credit F: acilities
+(dollars in millions): Matur, ities C, apacity, Ca, pac, ity, Outstanding
+Verizon revolving cr: edit facility, 202, 6 $, 9,500, $, 9,4, 36 $, —
+Various export credi: t facilities, 2024 -, 2031, 11,000, 1,0, 00, 6,735
+Total: $, 20,500, $ 1, 0,4, 36 $, 6,735
+The revolving cre: dit facility does, not require us to, comply with fin, ancial covenant, s or main, tain specif, ied, credit, ratings, and it
+permits us to borr: ow even if our, business has incu, rred a material, adverse change., The revo, lving cred, it fa, cility p, rovides for the
+issuance of letters: of credit. As o, f December 31,, 2022, there hav, e been no drawi, ngs agai, nst the $9., 5 b, illion r, evolving credit
+facility since its inc: eption.
+During 2022 and: 2021, we drew, down $3.0 billion, and $1.0 billion,, respectively, fro, m these, facilities. B, orr, owing, s under certain
+of these facilities: are amortized, semi-annually in, equal installme, nts up to the a, pplicable, maturity, dat, es. M, aturities reflect

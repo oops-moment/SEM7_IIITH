@@ -1,0 +1,48 @@
+Page 65, Table 1
+the major co: mponents and average us, eful lives of ou, r other acq, uired intangible, assets.
+We lease ne: twork equipment includin, g towers, distri, buted ante, nna systems, sm, all cells, real estate, c, onnectivity m, ediums which
+include dark: fiber, equipment, and ot, her various ty, pes of ass, ets for use in o, ur operations under, both operating, and finance
+leases. We a: ssess whether an arrang, ement is a lea, se or cont, ains a lease at i, nception. For arrange, ments conside, red leases or
+that contain: a lease that is accounted, for separately, , we deter, mine the classifi, cation and initial meas, urement of th, e right-of-use
+asset and le: ase liability at the lease co, mmencement, date, whic, h is the date tha, t the underlying asset, becomes avail, able for use.
+For both ope: rating and finance leases, , we recognize, a right-of-, use asset, whic, h represents our right, to use the und, erlying asset
+for the lease: term, and a lease liabilit, y, which repres, ents the p, resent value of, our obligation to make, payments ari, sing over the
+lease term. T: he present value of the le, ase payments, is calculat, ed using the inc, remental borrowing rat, e for operatin, g and finance
+leases. The: incremental borrowing rat, e is determine, d using a p, ortfolio approac, h based on the rate o, f interest that t, he Company
+would have t: o pay to borrow an amou, nt equal to the, lease pay, ments on a coll, ateralized basis over a, similar term., Management
+uses the uns: ecured borrowing rate an, d risk-adjusts t, hat rate to, approximate a c, ollateralized rate, whic, h is updated o, n a quarterly
+In those circ: umstances where Verizo, n is the lesse, e, we acco, unt for non-leas, e components associ, ated with our, leases (e.g.,
+common are: a maintenance costs) an, d lease compo, nents as a, single lease co, mponent for substantia, lly all of our a, sset classes.
+Additionally,: in arrangements where w, e are the lesso, r, we have, customer premi, se equipment for whic, h we account, for non-lease
+components: (e.g., service revenue) a, nd lease comp, onents as c, ombined comp, onents under the reve, nue recognitio, n guidance in
+Topic 606 as: the service revenues are, the predomina, nt compon, ents in the arra, ngements.
+Rent expens: e for operating leases is r, ecognized on, a straight-li, ne basis over th, e term of the lease an, d is included i, n either Cost
+of services o: r Selling, general and ad, ministrative e, xpense in, our consolidated, statements of incom, e, based on th, e use of the
+facility or eq: uipment on which rent i, s being paid., Variable re, nt payments re, lated to both operati, ng and financ, e leases are
+expensed in: the period incurred. Our, variable leas, e payments, consist of pay, ments dependent on, various extern, al indicators,
+including rea: l estate taxes, common a, rea maintenan, ce charges, and utility usag, e.
+Operating le: ases with a term of 12, months or less, are not r, ecorded in our, consolidated balance, sheets; we re, cognize rent
+expense for: these leases on a straight, -line basis ove, r the lease, term.
+We recogniz: e the amortization of the, right-of-use a, sset for ou, r finance lease, s on a straight-line ba, sis over the s, horter of the
+lease term o: r the useful life of the righ, t-of-use asset, in Depreci, ation and amorti, zation expense in our, consolidated, statements of
+income. The: interest expense related, to finance lea, ses is reco, gnized using the, effective interest met, hod based on, the discount
+rate determi: ned at lease commencem, ent and is inclu, ded within, Interest expens, e in our consolidated s, tatements of i, ncome.
+See Note 6 f: or additional information r, elated to lease, s, including, disclosure req, uired under ASU 2016-, 02, Leases (T, opic 842).
+Fair Value: Measurements
+Fair value of: financial and non-financi, al assets and, liabilities is, defined as an, exit price, representing, the amount t, hat would be
+received to: sell an asset or paid to, transfer a liab, ility in an, orderly transac, tion between market, participants. T, he three-tier
+hierarchy for: inputs used in measurin, g fair value, w, hich prioriti, zes the inputs u, sed in the methodolog, ies of measur, ing fair value
+for assets an: d liabilities, is as follows:
+Level 1 — Q: uoted prices in active mar, kets for identic, al assets o, r liabilities
+Level 2 — O: bservable inputs other tha, n quoted price, s in active, markets for iden, tical assets and liabilit, ies
+Level 3 — U: nobservable pricing inputs, in the market
+Financial as: sets and financial liabilitie, s are classifie, d in their e, ntirety based on, the lowest level of in, put that is sig, nificant to the
+fair value m: easurements. Our asses, sment of the, significanc, e of a particula, r input to the fair val, ue measurem, ents requires
+judgment an: d may affect the valuatio, n of the assets, and liabilit, ies being meas, ured and their categor, ization within, the fair value
+Income Ta: xes
+Our effective: tax rate is based on p, re-tax income,, statutory, tax rates, tax la, ws and regulations a, nd tax planni, ng strategies
+available to: us in the various jurisdictio, ns in which w, e operate.
+Deferred inc: ome taxes are provided f, or temporary, differences, in the basis bet, ween financial statem, ent and incom, e tax assets
+and liabilities: . Deferred income taxes, are recalculate, d annually, at tax rates in, effect for the years in, which those ta, x assets and
+liabilities are: expected to be realized o, r settled. We r, ecord valu, ation allowance, s to reduce our deferre, d tax assets t, o the amount
+that is more: likely than not to be realiz, ed.

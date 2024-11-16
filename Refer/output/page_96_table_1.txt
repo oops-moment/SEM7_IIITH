@@ -1,0 +1,40 @@
+Page 96, Table 1
+The fair values: for the oth, er postretirement, benefit plans by asset, cat, egory at Dec, em, ber 31, 2021, are, as follows:
+Asset Catego: ry, Total, Level 1, Level 2, Lev, el 3
+Cash and cas: h equivalen, ts, $, 36, $, —, $, 36, $, —
+Equity securiti: es, 284, 284, —, —
+Fixed income: securities
+U.S. Treas: uries and a, gencies, 160, 150, 10, —
+Corporate: bonds, 64, 50, 14, —
+Internation: al bonds, 14, 10, 4, —
+Other: 10, —, 10, —
+Total investme: nts at fair v, alue, 568, 494, 74, —
+Investment: s measure, d at NAV, 13
+Total: $, 581, $, 494, $, 74, $, —
+The following: are general, descriptions of a, sset categories, as we, ll as, the valuatio, n m, ethodologie, s an, d inputs us, ed to dete, rmine
+the fair value o: f each maj, or category of ass, ets.
+Cash and cash: equivalen, ts include short-t, erm investment funds, (less, than 90 da, ys t, o maturity),, prima, rily in dive, rsified port, folios
+of investment: grade mon, ey market instru, ments and are valued, usi, ng quoted m, ark, et prices or, oth, er valuatio, n methods, . The
+carrying value: of cash equ, ivalents approxi, mates fair value due to, the, short-term n, atur, e of these in, vest, ments.
+Investments in: securities, traded on nationa, l and foreign securitie, s ex, changes are, va, lued by the, trust, ee at the la, st reported, sale
+prices on the l: ast busines, s day of the year, or, if no sales were re, port, ed on that d, ate,, at the last r, eport, ed bid pric, es. Govern, ment
+obligations, co: rporate bo, nds, internationa, l bonds and asset-b, ack, ed debt are, va, lued using, matr, ix prices, with input, from
+independent th: ird-party v, aluation sources., Over-the-counter secu, ritie, s are valued, at, the bid price, s or, the averag, e of the bi, d and
+ask prices on t: he last bus, iness day of the y, ear from published so, urce, s or, if not a, vail, able, from ot, her s, ources co, nsidered re, liable
+such as multipl: e broker qu, otes.
+Commingled fu: nds not tra, ded on national, exchanges are priced, by t, he custodian, or, fund's admi, nistra, tor at their, net asset, value
+(NAV). Commi: ngled funds, held by third-par, ty custodians appointe, d by, the fund m, ana, gers provide, the f, und mana, gers with a, NAV.
+The fund mana: gers have, the responsibility, for providing this infor, mati, on to the cus, tod, ian of the re, spect, ive plan.
+The investme: nt manage, r of the entity v, alues venture capital, , co, rporate fina, nce, and natura, l re, source lim, ited partne, rship
+investments. R: eal estate, investments are, valued at amounts ba, sed, upon apprais, al r, eports prep, ared, by either i, ndependen, t real
+estate apprais: ers or the, investment man, ager using discounte, d ca, sh flows or, ma, rket compa, rable, data. Lo, ans secure, d by
+mortgages are: carried at, the lesser of the, unpaid balance or app, rais, ed value of, the, underlying p, rope, rties. The, values ass, igned
+to these invest: ments are, based upon avai, lable and current mar, ket i, nformation a, nd, do not nece, ssar, ily represe, nt amount, s that
+might ultimatel: y be realize, d. Because of th, e inherent uncertainty, of v, aluation, est, ima, ted fair valu, es m, ight differ s, ignificantly, from
+the values that: would hav, e been used had, a ready market for the, sec, urities existe, d. T, hese differe, nces, could be, material.
+Forward curren: cy contrac, ts, futures, and o, ptions are valued by th, e tr, ustee at the, exc, hange rates, and, market pric, es prevaili, ng on
+the last busine: ss day of t, he year. Both ex, change rates and mar, ket, prices are re, adi, ly available, from, published, sources. T, hese
+securities are c: lassified b, y the asset class, of the underlying holdi, ngs.
+Hedge funds a: re valued b, y the custodian, at NAV based on state, men, ts received, from, the invest, ment, manager., These fund, s are
+valued in acco: rdance with, the terms of thei, r corresponding offerin, g or, private plac, eme, nt memoran, da.
+Verizon 2022 A: nnual Rep, ort on Form 10-K, 96

@@ -1,0 +1,49 @@
+Page 11, Table 1
+The FCC regulates: several aspect, s of our wir, eless operatio, ns. Generally, the FCC has jurisdiction over the construction,
+operation, acquisition: and transfer o, f wireless c, ommunications, systems. All wireless services require use of radio frequency
+spectrum, the assign: ment and distr, ibution of w, hich is subject, to FCC oversight. If demand continues to increase or if new
+spectrum is required: for a future gen, eration of tec, hnology, we c, an meet our needs for licensed spectrum by purchasing licenses
+or leasing spectrum: from others, or, by participat, ing in a comp, etitive bidding process to acquire new spectrum from the FCC.
+Those processes are: subject to certa, in reviews, a, pprovals and p, otential conditions.
+Today, Verizon holds: FCC spectrum, licenses that, allow it to pro, vide a wide range of mobile and fixed communications services,
+including both voice: and data service, s. FCC spec, trum licenses, typically have a term of 10 years, at which time they are subject
+to renewal. While the: FCC has routin, ely renewed, all of Verizon’, s wireless licenses, challenges could be raised in the future. If a
+wireless license was: revoked or not, renewed, Ve, rizon would n, ot be permitted to provide services on the spectrum covered by
+that license. Some o: f our licenses re, quire us to, comply with so, -called "open access" FCC regulations, which generally require
+licensees of particula: r spectrum to a, llow custom, ers to use devi, ces and applications of their choice, subject to certain technical
+limitations. The FCC: has also impo, sed certain s, pecific manda, tes on wireless carriers, including construction and geographic
+coverage requireme: nts, technical, operating s, tandards, pro, vision of enhanced 911 services, roaming obligations and
+requirements for wire: less tower and a, ntenna facili, ties.
+The Act generally pre: empts regulatio, n by state a, nd local govern, ments of the entry of, or the rates charged by, wireless carriers.
+The Act does not pro: hibit states from, regulating t, he other "term, s and conditions" of wireless service. For example, some states
+impose reporting and: consumer prot, ection require, ments. Severa, l states also have laws or regulations that address safety issues
+(for example, use of: wireless hands, ets while dr, iving), univers, al service funding, and taxation matters. Some states are also
+considering new net: work reliability o, r service qu, ality requirem, ents that may affect how and where we provide services if not
+preempted by federa: l law. In addition, , wireless to, wer and anten, na facilities are often subject to state and local zoning and land
+use regulation, and s: ecuring approva, ls for new or, modified facilit, ies is often a lengthy and expensive process.
+Verizon offers many: different wirelin, e voice ser, vices, includin, g traditional telephone service and other services that rely on
+"information services: " subject to a, "light touch", regulatory ap, proach rather than to the traditional, utilities-style regulations.
+However, the FCC co: uld return to a, more utilities, -style regulatio, n of broadband. Additionally, several states have adopted or are
+considering adopting: laws or executi, ve orders tha, t would regula, te broadband. Although some of these have been challenged in
+court, the ultimate en: forceability and, effect of thes, e state rules is, uncertain. Regardless of regulation, Verizon remains committed
+to the open internet,: which provides, consumers, with competitiv, e choices and unblocked access to lawful websites and content.
+Our broadband com: mitment can be, found on o, ur website at, https://www.verizon.com/about/our-company/verizon-broadband-
+technologies such as: VoIP. For regul, atory purpos, es, legacy tele, phone services are generally considered to be "common carrier"
+services. Common ca: rrier services ar, e subject to, heightened reg, ulatory oversight with respect to rates, terms and conditions and
+other aspects of the: services. The F, CC has not d, ecided the reg, ulatory classification of VoIP but has said VoIP service providers
+must comply with cer: tain rules, such, as 911 capa, bilities and law, enforcement assistance requirements.
+State public utility co: mmissions reg, ulate Verizon, ’s telephone o, perations with respect to certain telecommunications intrastate
+matters. Verizon ope: rates as an "incu, mbent local, exchange carr, ier" in nine states and the District of Columbia. These incumbent
+operations are subje: ct to various lev, els of pricing, flexibility and, other state oversight and requirements. Verizon also has other
+wireline operations t: hat are more lig, htly regulate, d. Some state, s, including California, impose reporting requirements and are
+considering new netw: ork reliability or, service qual, ity requiremen, ts for wireline voice services, including for VoIP.
+Verizon offers a multi: channel video s, ervice that is, regulated like, traditional cable service. The FCC has a body of rules that apply
+to cable operators, a: nd these rules a, lso generally, apply to Veriz, on. In areas where Verizon offers its facilities-based multichannel
+video services, Veriz: on has been req, uired to obt, ain a cable fra, nchise from local government entities, or in some cases a state-
+wide franchise, and c: omply with certa, in one-time, and ongoing o, bligations as a result.
+Privacy and Data Se: curity
+We are subject to loc: al, state, federa, l, and intern, ational laws an, d regulations relating to privacy and data security that impact all
+parts of our business: , including wireli, ne, wireless,, broadband an, d the development and roll out of new products, such as those in
+the artificial intellige: nce and IoT sp, ace. At the, federal level,, our business is governed by the FCC or the Federal Trade
+Commission (FTC),: depending on, the product, or service. T, he California Consumer Privacy Act, Europe's General Data
+Protection Regulatio: n and a numbe, r of other pr, ivacy laws rec, ently adopted by other states and countries include significant

@@ -1,0 +1,25 @@
+Page 3, Table 1
+Item 1. Busines: s, 4
+Item 1A. Risk Fa: ctors, 14
+Item 1B. Unresol: ved Staff Comments, 18
+Item 2. Properti: es, 19
+Item 3. Legal P: roceedings, 19
+Item 4. Mine Sa: fety Disclosures, 19
+Item 5. Market f: or Registrant’s Com, mon Equity,, Related, Stockholder Matters and Issuer Purchases of, 20
+Equity S: ecurities
+Item 6. [Reserv: ed], 20
+Item 7. Manage: ment’s Discussion a, nd Analysis, of Finan, cial Condition and Results of Operations, 21
+Item 7A. Quantit: ative and Qualitative, Disclosures, About M, arket Risk, 48
+Item 8. Financi: al Statements and Su, pplementary, Data, 51
+Item 9. Change: s in and Disagreeme, nts with Acc, ountant, s on Accounting and Financial Disclosure, 107
+Item 9A. Control: s and Procedures, 107
+Item 9B. Other In: formation, 107
+Item 9C. Disclos: ure Regarding Foreig, n Jurisdicti, ons that, Prevent Inspections, 107
+Item 10. Director: s, Executive Officers, and Corpor, ate Gov, ernance, 108
+Item 11. Executi: ve Compensation, 108
+Item 12. Security: Ownership of Certa, in Beneficial, Owners, and Management and Related Stockholder, 108
+Item 13. Certain: Relationships and R, elated Trans, actions,, and Director Independence, 109
+Item 14. Principa: l Accounting Fees a, nd Services, 109
+Item 15. Exhibits: and Financial State, ment Schedu, les, 110
+Item 16. Form 10: -K Summary, 114
+Signatures: 114

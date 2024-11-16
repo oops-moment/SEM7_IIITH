@@ -1,0 +1,42 @@
+Page 28, Table 1
+of the end of th: e period. Fios vide, o connections are, calcu, lated by adding Fios, video, net additions, in the period to, prior period
+Fios video conn: ections. Fios vide, o net additions are, calc, ulated by subtracting, the F, ios video disc, onnects from th, e Fios video
+new connections: .
+Total broadband: connections, net, additions are the to, tal n, umber of additional t, otal b, roadband conn, ections, less th, e number of
+Line (DSL), and: postpaid, prepaid, and IoT FWA as, of th, e end of the period., Total, broadband co, nnections are c, alculated by
+adding total broa: dband connection, s, net additions in th, e pe, riod to prior period to, tal bro, adband conne, ctions.
+Wireless retail: postpaid connectio, ns per account is, the, calculated average n, umbe, r of retail pos, tpaid connectio, ns per retail
+connections, les: s the number of p, hone disconnects i, n th, e period. Wireless ret, ail po, stpaid phone c, onnections, net, additions in
+presented are c: alculated by subtr, acting the total reta, il po, stpaid and prepaid d, iscon, nects, net of c, ertain adjustme, nts, from the
+total retail postp: aid and prepaid ne, w connections in th, e per, iod.
+Wireless retail p: ostpaid accounts, are wireless retail c, usto, mers that are directl, y serv, ed and manag, ed under the V, erizon brand
+less the number: of device disconn, ects in the period., Wirel, ess retail prepaid con, nectio, ns, net additio, ns in each peri, od presented
+are calculated b: y subtracting the r, etail prepaid discon, nect, s, net of certain adju, stmen, ts, from the ret, ail prepaid new, connections
+each period pre: sented are calcula, ted by subtracting t, he r, etail postpaid phone, discon, nects, net of c, ertain adjustme, nts, from the
+retail postpaid p: hone new connecti, ons in the period.
+total broadband: disconnects in the, period. Total broadb, and, connections, net add, itions, in each period, presented are, calculated by
+subtracting the t: otal broadband dis, connects, net of cer, tain, adjustments, from the, total, broadband ne, w connections in, the period.
+Wireless Churn: is the rate at wh, ich service to retai, l, re, tail postpaid, or reta, il post, paid phone co, nnections is te, rminated on
+average in the: period. The churn, rate in each perio, d p, resented is calculate, d by, dividing retail, disconnects, re, tail postpaid
+disconnects, or: retail postpaid ph, one disconnects by, the, average retail conn, ection, s, average ret, ail postpaid co, nnections, or
+average retail po: stpaid phone conn, ections, respectivel, y, in, the period.
+accounts in the: period.
+the Verizon devi: ce payment progr, am, plan billings rel, ated, to device warranty, and in, surance or reg, ulatory fees. W, ireless retail
+postpaid ARPA i: n each period pre, sented is calculated, by, dividing retail postpai, d serv, ice revenue by, the average re, tail postpaid
+and use its servi: ces as of the end, of the period. Accou, nts, include unlimited plan, s, sha, red data plans, and corporate, accounts, as
+well as legacy si: ngle connection pl, ans and multi-conne, ctio, n family plans. A sing, le acc, ount may inclu, de monthly wire, less services
+for a variety of c: onnected devices., Wireless retail post, paid, accounts are calcula, ted by, adding retail p, ostpaid new ac, counts to the
+prior period retai: l postpaid account, s.
+postpaid accoun: t as of the end of, the period. Wireless, ret, ail postpaid connectio, ns pe, r account is ca, lculated by divi, ding the total
+number of retail: postpaid connectio, ns by the number o, f ret, ail postpaid accounts, as of, the end of the, period.
+Segment operat: ing income margi, n reflects the profit, abili, ty of the segment a, s a p, ercentage of r, evenue. Segme, nt operating
+income margin i: s calculated by divi, ding total segment, oper, ating income by total, segm, ent operating re, venues.
+Segment earnin: gs before interest,, taxes, depreciation, and, amortization (Segme, nt EB, ITDA), which i, s presented bel, ow, is a non-
+GAAP measure: and does not purp, ort to be an alternat, ive t, o operating income (l, oss) a, s a measure of, operating perfo, rmance. We
+believe this me: asure is useful to, management, inves, tors, and other users of, our fin, ancial informa, tion in evaluati, ng operating
+profitability on a: more variable co, st basis as it exclud, es t, he depreciation and, amort, ization expens, e related prima, rily to capital
+expenditures an: d acquisitions tha, t occurred in prior, year, s, as well as in eva, luating, operating pe, rformance in re, lation to our
+competitors. Se: gment EBITDA is c, alculated by adding, bac, k depreciation and am, ortiza, tion expense t, o segment oper, ating income
+(loss). Segment: EBITDA margin is, calculated by dividi, ng S, egment EBITDA by t, otal se, gment operatin, g revenues. Se, e Note 13 to
+the consolidated: financial statemen, ts for additional info, rma, tion.
+Verizon 2022 An: nual Report on Fo, rm 10-K, 28

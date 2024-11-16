@@ -1,0 +1,46 @@
+Page 49, Table 1
+not hold any collatera: l. At December 31, 2022, , we posted, $2.3 billion, of collateral, related to, derivati, ve contracts un, der collateral
+exchange agreement: s, which was recorded as, Prepaid ex, penses and, other in our, consolida, ted bala, nce sheet. At D, ecember 31,
+2021, we held and po: sted $0.1 billion and an i, nsignificant, amount, re, spectively, of, collateral, related, to derivative co, ntracts under
+collateral exchange: arrangements, which w, ere record, ed as Oth, er current li, abilities, and Pr, epaid expenses, and other,
+respectively, in our c: onsolidated balance she, et. While w, e may be e, xposed to cre, dit losses, due to, the nonperform, ance of our
+counterparties, we co: nsider the risk remote an, d do not ex, pect that a, ny such nonp, erformanc, e woul, d result in a sign, ificant effect
+on our results of ope: rations or financial condi, tion due to, our diversifi, ed pool of co, unterpart, ies. Se, e Note 9 to the, consolidated
+financial statements f: or additional information r, egarding th, e derivative, portfolio.
+We are exposed to c: hanges in interest rates, , primarily, on our shor, t-term debt a, nd the po, rtion o, f long-term debt, that carries
+floating interest rates.: As of December 31, 202, 2, approxim, ately 74%, of the aggreg, ate princi, pal amo, unt of our total, debt portfolio
+consisted of fixed-rate: indebtedness, including, the effect, of interest ra, te swap agre, ements d, esignat, ed as hedges. T, he impact of
+a 100-basis-point cha: nge in interest rates aff, ecting our fl, oating rate, debt would r, esult in a, change, in annual inter, est expense,
+including our interest: rate swap agreements th, at are desi, gnated as h, edges, of app, roximatel, y $420, million. The inte, rest rates on
+our existing long-term: debt obligations are una, ffected by c, hanges to o, ur credit ratin, gs.
+Certain of our floating: rate debt and certain of, our interes, t rate deriva, tive transacti, ons utilize, intere, st rates that are, linked to the
+London Inter-Bank Of: fered Rate (LIBOR) as t, he benchm, ark rate. Th, e U.S. dollar, LIBOR ra, tes utiliz, ed in these tran, sactions will
+cease publication aft: er June 30, 2023, in ac, cordance w, ith recent U, .S. and inter, national r, egulato, ry guidance for, reform. The
+consequences of thes: e developments cannot, be entirely, predicted b, ut could inclu, de an inc, rease in, the cost of our, floating rate
+debt or exposure und: er our interest rate deriva, tive transac, tions. We d, o not anticipa, te a signif, icant im, pact to our fina, ncial position
+given our current mix: of variable and fixed-rat, e debt and t, aking into a, ccount the im, pact of o, ur intere, st rate hedging., In 2021, we
+began utilizing interes: t rates that are linked to, the Secure, d Overnight, Financing R, ate as the, bench, mark rate for va, rious floating
+The table that follow: s summarizes the fair v, alues of ou, r long-term, debt, includi, ng curren, t matur, ities, and intere, st rate swap
+derivatives as of Dece: mber 31, 2022 and 2021, . The table, also provide, s a sensitivit, y analysis, of the e, stimated fair va, lues of these
+financial instruments: assuming 100-basis-poin, t upward an, d downwar, d shifts in the, yield cur, ve. Our, sensitivity analy, sis does not
+include the fair values: of our commercial pape, r and bank, loans, if an, y, because th, ey are not, signific, antly affected b, y changes in
+Long-term debt and r: elated derivatives, F, air Value +, 100 basis, point s, hift - 100 basi, s point shift
+At December 31, 20: 22, $, 143,648 $, 136,1, 99 $, 152,427
+At December 31, 202: 1, 169,179, 156,0, 78, 184,496
+Interest Rate Swap: s
+We enter into interest: rate swaps to achieve a, targeted mi, x of fixed a, nd variable ra, te debt. W, e princ, ipally receive fix, ed rates and
+pay variable rates, re: sulting in a net increase o, r decrease, to Interest e, xpense. The, se swaps, are des, ignated as fair v, alue hedges
+and hedge against int: erest rate risk exposure, of designate, d debt issua, nces. At Dec, ember 31, , 2022,, there was no am, ount related
+to the fair value of the: asset and the fair value, of the liabi, lity of these, contracts wa, s $4.6 bil, lion. At, December 31, 2, 021, the fair
+value of the asset and: liability of these contrac, ts was $473, million and, $666 million, , respectiv, ely. Th, e increase in the, fair value of
+the liability of these c: ontracts is primarily due, to interest r, ate change, s during the y, ear ende, d Dece, mber 31, 2022., At December
+31, 2022 and 2021, th: e total notional amount o, f the interes, t rate swap, s was $26.1 b, illion and, $19.8 b, illion, respective, ly.
+Forward Starting I: nterest Rate Swaps
+We have entered into: forward starting interest, rate swaps, designated, as cash flow, hedges, in orde, r to manage our, exposure to
+interest rate changes: on future forecasted tran, sactions. A, t December, 31, 2022, th, ere was n, o amou, nt related to the, fair value of
+the asset or liability of: these contracts. At Dec, ember 31, 2, 021, there w, as no amou, nt related, to the f, air value of the a, sset and the
+fair value of the liabilit: y of these contracts was, $302 million, . At Decem, ber 31, 2022,, there wa, s no out, standing notion, al amount for
+forward starting intere: st rate swaps. At Decem, ber 31, 202, 1, the total, notional amo, unt of the, forwar, d starting interes, t rate swaps
+Treasury Rate Loc: ks
+From time to time we: enter into treasury rate, locks to mit, igate our int, erest rate ris, k. There, was no, outstanding noti, onal amount
+for treasury rate locks: at December 31, 2022 o, r 2021.

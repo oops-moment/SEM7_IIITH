@@ -1,0 +1,12 @@
+Page 32, Table 2
+Global Enterprise: 9,734, 10,224, (490), (4.8)
+Public Sector and Other: 6,118, 6,324, (206), (3.3)
+Wholesale: 2,607, 2,720, (113), (4.2)
+Total Operating Revenues(1): $ 31,072, $ 31,042, $ 30, 0.1
+Wireless retail postpaid(3): 1,640, 1,001, 639, 63.8
+Fios internet: 373, 356, 17, 4.8
+Fios video: 67, 71, (4), (5.6)
+Total broadband: 386, 81, 305, nm
+Wireless retail postpaid phones(3): 856, 509, 347, 68.2
+Wireless retail postpaid: 1.38%, 1.27%
+Wireless retail postpaid phones: 1.07%, 1.03%

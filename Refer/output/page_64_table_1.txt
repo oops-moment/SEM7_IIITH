@@ -1,0 +1,56 @@
+Page 64, Table 1
+Value Measuremen: ts" discussion, below for, additional inform, ation. The mark, et approach includes, the use o, f comparative
+multiples of guidelin: e companies to, complemen, t discounted ca, sh flow results. Th, e discounted cash flo, w method is, based on the
+present value of tw: o components,, projected, cash flows and, a terminal value, . The terminal value, represents, the expected
+normalized future ca: sh flows of the, reporting u, nit beyond the c, ash flows from the, discrete projection p, eriod. The fa, ir value of the
+reporting unit is calc: ulated based o, n the sum, of the present v, alue of the cash, flows from the discre, te period an, d the present
+value of the termin: al value. The di, scount rate, represents ou, r estimate of the, weighted-average co, st of capita, l, or expected
+return, that a marke: tplace participa, nt would ha, ve required as o, f the valuation d, ate. If the carrying val, ue exceeds, the fair value,
+an impairment char: ge is booked fo, r the exce, ss carrying valu, e over fair value,, limited to the total a, mount of g, oodwill of that
+reporting unit. Durin: g the fourth qu, arter each, year, we update, our five-year stra, tegic planning review, for each o, f our reporting
+units. Those plans c: onsider current, economic c, onditions and tr, ends, estimated f, uture operating result, s, our view o, f growth-rates
+and anticipated futur: e economic and, regulatory, conditions.
+See Note 4 for addit: ional informatio, n regarding, our goodwill imp, airment testing.
+Intangible Assets N: ot Subject to, Amortizatio, n
+A significant portion: of our intangibl, e assets ar, e wireless licens, es that provide o, ur wireless operations, with the ex, clusive right to
+utilize designated ra: dio frequency s, pectrum to, provide wireles, s communication, services. While licen, ses are iss, ued for only a
+fixed time, generally: ten to fifteen, years, suc, h licenses are s, ubject to renewa, l by the Federal Com, munication, s Commission
+(FCC). License rene: wals have occu, rred routine, ly and at nomin, al cost. Moreover,, we have determined, that there a, re currently no
+legal, regulatory, co: ntractual, compe, titive, econ, omic or other fa, ctors that limit the, useful life of our wir, eless license, s. As a result,
+we treat the wireles: s licenses as a, n indefinite, -lived intangible, asset. We re-ev, aluate the useful life, determinatio, n for wireless
+licenses each year t: o determine wh, ether even, ts and circumst, ances continue to, support an indefinite, useful life., We aggregate
+our wireless license: s into one singl, e unit of ac, counting, as we, utilize our wireles, s licenses on an inte, grated basis, as part of our
+nationwide wireless: network.
+We test our wireless: licenses for po, tential impa, irment annually, or more frequentl, y if impairment indica, tors are pre, sent. We have
+the option to first pe: rform a qualita, tive assess, ment to determi, ne whether it is, necessary to perform, a quantitati, ve impairment
+test. However, we: may elect to b, ypass the, qualitative asse, ssment in any p, eriod and proceed, directly to p, erforming the
+quantitative impairm: ent test. It is our, policy to p, erform quantitati, ve impairment as, sessment at least eve, ry three yea, rs.
+As part of our qual: itative assessm, ent we con, sider several f, actors including t, he business enterpris, e value of, our combined
+wireless business,: macroeconomic, conditions, (including chan, ges in interest r, ates and discount ra, tes), industr, y and market
+considerations (inclu: ding industry r, evenue and, EBITDA margi, n results, projecti, ons and recent merge, r and acqui, sition activity),
+the recent and proje: cted financial p, erformance, of our combine, d wireless busine, ss as a whole, as well, as other fa, ctors including
+the result of our last: quantitative ass, essment. S, ee Note 4 for ad, ditional informatio, n regarding our impai, rment tests.
+Our quantitative imp: airment assess, ment consis, ts of comparing, the estimated fai, r value of our aggrega, te wireless l, icenses to the
+aggregated carrying: amount as of t, he test dat, e. Under our qu, antitative assess, ment, we estimate the, fair value o, f our wireless
+licenses using the: Greenfield appr, oach. The, Greenfield app, roach is an inco, me based valuation, approach th, at values the
+wireless licenses by: calculating the, cash flow, generating pote, ntial of a hypothe, tical start-up compan, y that goes, into business
+with no assets exce: pt the wireless li, censes to b, e valued. A disc, ounted cash flow, analysis is used to es, timate what, a marketplace
+participant would be: willing to pay, to purchase, the aggregate, d wireless license, s as of the valuation, date. If the, estimated fair
+value of the aggre: gated wireless, licenses is, less than the, aggregated carry, ing amount of the w, ireless lice, nses, then an
+impairment charge i: s recognized.
+Interest expense inc: urred while qua, lifying activ, ities are perform, ed to ready wirel, ess licenses for their i, ntended use, is capitalized
+as part of wireless li: censes. The cap, italization, period ends whe, n the developmen, t is discontinued or s, ubstantially, completed and
+the license is ready f: or its intended, use.
+Wireless licenses c: an be purchase, d through, public auctions c, onducted by the, FCC. Deposits requi, red to partic, ipate in these
+auctions and purch: ase licenses ar, e recorded, within Other as, sets in our conso, lidated balance shee, ts until the, corresponding
+licenses are receive: d and within Net, cash used, in investing acti, vities in our conso, lidated statements of, cash flows.
+Intangible Assets S: ubject to Amo, rtization a, nd Long-Lived, Assets
+Our intangible asse: ts that do not, have indef, inite lives (prim, arily customer lis, ts and non-network i, nternal-use, software) are
+amortized over their: estimated usef, ul lives. All, of our intangibl, e assets subject, to amortization and o, ther long-liv, ed assets are
+reviewed for impairm: ent whenever e, vents or ch, anges in circum, stances indicate t, hat the carrying amou, nt of the ass, et may not be
+recoverable. If any i: ndications of im, pairment a, re present, we, would test for rec, overability by compari, ng the carry, ing amount of
+the asset group to t: he net undiscou, nted cash, flows expected, to be generated f, rom the asset group., If those net, undiscounted
+cash flows do not ex: ceed the carryi, ng amount,, we would perfo, rm the next step,, which is to determine, the fair valu, e of the asset
+and record an impai: rment, if any. W, e re-evaluat, e the useful life, determinations fo, r these intangible ass, ets each yea, r to determine
+whether events and: circumstances, warrant a re, vision to their re, maining useful liv, es.
+Verizon 2022 Annua: l Report on For, m 10-K, 6, 4

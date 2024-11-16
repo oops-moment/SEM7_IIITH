@@ -1,0 +1,48 @@
+Page 67, Table 1
+residual returns of th: e entity. We conso, lidat, e the assets and, liabilities, of VIEs when w, e are deemed to be th, e prim, ary beneficiary.
+The primary benefic: iary is the party, that, has the power, to make, the decisions, that most significantly, affec, t the economic
+performance of the V: IE and has the ob, ligat, ion to absorb los, ses or the, right to receive, benefits that could po, tentia, lly be significant
+Recently Adopted: Accounting St, and, ards
+On January 1, 202: 0, we adopted A, SU, 2016-13, Finan, cial Instru, ments - Cred, it Losses (Topic 326, ) usin, g the modified
+retrospective approa: ch. The cumulativ, e af, ter-tax effect of, the chan, ges made to o, ur consolidated financ, ial sta, tements for the
+adoption of Topic 326: was as follows:
+(dollars in millions): 2019, Topic 326, At J, anuary 1, 2020
+Retained earnings: $, 53,147, $ (200), $, 52,947
+See Note 8 for additi: onal information re, late, d to credit losses, , including, disclosures re, quired under Topic 326, .
+Note 2. Revenue: and Contract C, ost, s
+We earn revenue fro: m contracts with, cust, omers, primarily, through th, e provision of, telecommunications a, nd oth, er services and
+through the sale of w: ireless equipment, .
+Revenue by Categ: ory
+We have two reporta: ble segments that, we, operate and ma, nage as s, trategic busine, ss units, Consumer an, d Bus, iness. Revenue
+is disaggregated by: products and se, rvic, es within Consu, mer, and, customer gro, ups (Small and Medi, um B, usiness, Global
+Enterprise, Public S: ector and Other,, and, Wholesale) with, in Busine, ss. See Note 1, 3 for additional inform, ation, on revenue by
+segment. Corporate: and other prima, rily, includes insuran, ce captiv, e revenues as, well as the historic, al res, ults of divested
+businesses, including: Verizon Media.
+We also earn revenu: es that are not a, ccou, nted for under T, opic 606, from leasing a, rrangements (such as, those, for towers and
+equipment), captive: reinsurance arran, gem, ents primarily r, elated to, wireless devic, e insurance and the i, nteres, t on equipment
+financed under a dev: ice payment plan, agre, ement when sol, d to the cu, stomer by an a, uthorized agent. As al, lowed, by the practical
+expedient within Top: ic 842, we have, ele, cted to combine, the leas, e and non-lea, se components for th, ose a, rrangements of
+customer premise e: quipment where, we, are the lessor, as comp, onents accoun, ted for under Topic, 606., Revenues from
+arrangements that w: ere not accounted, for, under Topic 606, were ap, proximately $3., 2 billion, $3.1 billion a, nd $2, .9 billion for the
+years ended Decemb: er 31, 2022, 2021, and, 2020, respectiv, ely.
+Remaining Perfor: mance Obligati, ons
+When allocating the: total contract tran, sacti, on price to ident, ified perfo, rmance obliga, tions, a portion of the, total t, ransaction price
+may relate to service: performance obl, igati, ons which were, not satisf, ied or are parti, ally satisfied as of the, end, of the reporting
+period. Below we dis: close information, rela, ting to these un, satisfied, performance ob, ligations. We apply th, e pra, ctical expedient
+available under Topi: c 606 that provid, es t, he option to ex, clude the, expected reve, nues arising from un, satisfi, ed performance
+obligations related to: contracts that ha, ve a, n original expec, ted durat, ion of one year, or less. This situatio, n prim, arily arises with
+respect to certain m: onth-to-month se, rvice, contracts. At D, ecember, 31, 2022, mo, nth-to-month service, contra, cts represented
+approximately 94%: of our wireless po, stpa, id contracts an, d 92% of, our wireline C, onsumer and Small a, nd M, edium Business
+contracts, compared: to December 31,, 202, 1, for which mon, th-to-mon, th service cont, racts represented appr, oxima, tely 93% of our
+wireless postpaid con: tracts and 86% of, our, wireline Consum, er and S, mall and Mediu, m Business contracts.
+Additionally, certain c: ontracts provide, custo, mers the option, to purcha, se additional s, ervices. The fees relat, ed to, these additional
+services are recogniz: ed when the cust, omer, exercises the o, ption (typi, cally on a mont, h-to-month basis).
+Contracts for wireles: s services, with, or w, ithout promotion, al credits, that require m, aintenance of service, , are, generally either
+month-to-month and: cancellable at any, tim, e, or considered, to contain, terms ranging, from greater than one, mont, h to up to thirty-
+six months (typically: under a device p, aym, ent plan), or con, tain terms, ranging from, greater than one mont, h to u, p to twenty-four
+months (typically un: der a fixed-term, plan), . Additionally, cu, stomers, may incur char, ges based on usage, or ad, ditional optional
+services purchased i: n conjunction with, ent, ering into a contr, act that c, an be cancelle, d at any time and ther, efore, are not included
+in the transaction pric: e. The transactio, n pri, ce allocated to s, ervice per, formance oblig, ations, which are not s, atisfie, d or are partially
+satisfied as of the en: d of the reporting, per, iod, are generall, y related, to contracts th, at are not accounted f, or as, month-to-month
+Our Consumer group: customers also i, nclu, de traditional wh, olesale re, sellers that purc, hase and resell wirele, ss se, rvice under their
+own brands to their: respective custo, mers, . Reseller arran, gements, generally inclu, de a stated contract, term,, which typically

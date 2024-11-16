@@ -1,0 +1,8 @@
+Page 86, Table 1
+Th: e following ta, ble presents the balances of assets and liabilities, measured, at fair, value o, n a recu, rring basi, s as of, Decem, ber 3
+20: 22:
+A: ssets:
+P: repaid expens, es and other:
+O: ther liabilities:
+T: otal, $, —, $, 8,368, $, 317, $, 8,685
+L: iabilities:
