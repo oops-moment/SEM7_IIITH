@@ -601,7 +601,7 @@ def is_valid_context(context):
 
 ## Helper Functions for Question Validation
 def is_question_generic(question):
-    generic_phrases = ["What is mentioned", "from this context", "according to the context", "in the given", "in the context", "in the provided"]
+    generic_phrases = ["what is mentioned", "from this context", "according to the context", "in the given", "in the context", "in the provided"]
     for phrase in generic_phrases:
         if phrase in question.lower():
             return True
@@ -626,19 +626,18 @@ def is_valid_question(question, context):
 def validate_contexts(data, qg_request):
     # Improved validation prompt
     system_prompt = """
-    You are a context validation assistant. Your task is to analyze the given context and determine if it is **valid** or **invalid** based on its coherence, relevance, and potential to support meaningful questions.
+    You are a context validation assistant. Your task is to analyze the given context and determine if it the context is **valid** or **invalid** based on its coherence, relevance, and potential to support meaningful questions.
     
-    - Respond with **"valid"** if the context is factual, clear, relevant, and contains structured information suitable for question generation.
+    - Respond with **"valid"** if the context is factual, clear, relevant, and contains structured information that would be suitable for question generation.
     - Respond with **"invalid"** if the context is nonsensical, irrelevant, or lacks coherence (e.g., random numbers, unrelated sequences, or incomplete sentences).
-    
-    Examples:
-    - Context: "The solar system consists of the Sun and objects that orbit it, including planets, moons, and asteroids." → **valid**
-    - Context: "234jkdf 9832!! ?@ 123 solar system orbit 3344 77888." → **invalid**
 
-    Output format: valid/invalid
+
+    Output format: "valid" or "invalid" with a brief reason for your decision.
     """
-    
-    # Updated user prompt template for clarity
+    # Examples:
+    # - Context: "The solar system consists of the Sun and objects that orbit it, including planets, moons, and asteroids." → **valid**
+    # - Context: "234jkdf 9832!! ?@ 123 solar system orbit 3344 77888." → **invalid**
+
     user_prompt_template = '''Based on the provided context, determine whether it is **valid** or **invalid**:
     - Context: {context}
     - Output: "valid" with a brief reason for valid contexts or "invalid" with a reason for invalid contexts.
@@ -647,31 +646,38 @@ def validate_contexts(data, qg_request):
     valid_contexts = []
     context_tasks=[]
     context_dict={}
-    for section in data:
-        for paragraph in section['paragraphs']:
-            # Process paragraphs with sufficient length for validation
-            if len(paragraph['context'].split()) > 30:
-                messages = [
-                    {"role": "system", "content": system_prompt},
-                    {"role": "user", "content": user_prompt_template.format(context=paragraph['context'])}
-                ]
-                # Set up the request for the LIMA model
-                request = schemas.VLLMRequest(
-                    messages=messages,
-                    max_tokens=qg_request['max_new_tokens'],
-                    temperature=qg_request['temperature'],
-                    top_k=qg_request['top_k'],
-                    top_p=qg_request['top_p']
-                )
-                
-                # Trigger asynchronous task and fetch result
-                task = celery_app.signature(
-                    "pipelines.celery_tasks.tasks.qg_task",
-                    args=(qg_request, request.dict())
-                ).delay()
 
-                context_tasks.append((paragraph['original_para_id'],task))
-                context_dict[paragraph['original_para_id']]=paragraph['context']
+    # Filter contexts upfront
+    filtered_contexts = [
+        paragraph for section in data for paragraph in section['paragraphs'] 
+        if len(paragraph['context'].split()) > 30
+    ]
+
+
+    for paragraph in filtered_contexts:
+        # Process paragraphs with sufficient length for validation
+        if len(paragraph['context'].split()) > 30:
+            messages = [
+                {"role": "system", "content": system_prompt},
+                {"role": "user", "content": user_prompt_template.format(context=paragraph['context'])}
+            ]
+            # Set up the request for the LIMA model
+            request = schemas.VLLMRequest(
+                messages=messages,
+                max_tokens=qg_request['max_new_tokens'],
+                temperature=qg_request['temperature'],
+                top_k=qg_request['top_k'],
+                top_p=qg_request['top_p']
+            )
+            
+            # Trigger asynchronous task and fetch result
+            task = celery_app.signature(
+                "pipelines.celery_tasks.tasks.qg_task",
+                args=(qg_request, request.dict())
+            ).delay()
+
+            context_tasks.append((paragraph['original_para_id'],task))
+            context_dict[paragraph['original_para_id']]=paragraph['context']
 
     for context_id,task in context_tasks:
         with allow_join_result():
@@ -679,18 +685,16 @@ def validate_contexts(data, qg_request):
         
         output_content=result['output']['choices'][0]['message']['content'].strip().lower()
                 
-        if 'valid' in output_content:
+        if 'valid' in output_content.lower():
                 valid_contexts.append(context_dict[context_id])      
                 
     return valid_contexts
 
-# Ensure the questions are clear, concise, and avoid ambiguity.
 
 def generate_questions_from_valid_contexts(valid_contexts, qg_request, question_dir, save_name):
     question_id = 0
     generated = {}
     encoding_tasks = []
-    count_invalid = 0
 
     # Enhanced system prompt with a structured example
     system_prompt = """
@@ -769,17 +773,6 @@ def generate_questions_from_valid_contexts(valid_contexts, qg_request, question_
                 question = question_ans_set[idx].replace("Q: ", "").strip()
                 answer = question_ans_set[idx + 1].replace("A: ", "").strip()
 
-                # # Validation checks for question and context
-                # if is_valid_context(context) and is_valid_question(question, context):
-                #     generated[context_id]["generated"].append({
-                #         "id": f"{question_id}_{save_name}",
-                #         "question": question,
-                #         "answers": [answer],
-                #         "answer_len": len(answer)
-                #     })
-                #     question_id += 1
-                # else:
-                #     count_invalid += 1
                 if is_valid_question(question, generated[context_id]["context"]):
                         generated[context_id]["generated"].append({
                             "id": f"{question_id}_{save_name}",
@@ -795,8 +788,7 @@ def generate_questions_from_valid_contexts(valid_contexts, qg_request, question_
     with open(question_dir, "w") as f:
         json.dump(list(generated.values()), f, indent=1)
 
-    print("Processing completed.", "Invalid Questions:", count_invalid)
-
+    print("Processing completed.")
 
 @celery_app.task(ignore_result=False, bind=True)
 def generate_questions(self,doc_id, qg_request, recreate=True):
@@ -830,9 +822,11 @@ def generate_questions(self,doc_id, qg_request, recreate=True):
 
     # Step 1: Validate Contexts
     valid_contexts = validate_contexts(data,qg_request)
+    
+    logger.info(f"Number of Valid contexts: {len(valid_contexts)}")
 
     if not valid_contexts:
-        logger.info("No valid contexts found.")
+        logger.info("No valid contexts were found.")
         return  
 
     # Step 2: Generate Questions from Validated Contexts
