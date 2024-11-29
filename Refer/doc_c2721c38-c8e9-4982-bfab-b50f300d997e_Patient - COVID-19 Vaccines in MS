@@ -1,0 +1,512 @@
+[
+ {
+  "context": "This letter contains information you requested on the Coronavirus Disease 2019 (COVID-19) vaccines and Ocrevus\u00ae (ocrelizumab) treatment in patients with multiple sclerosis.\nThis information is provided only for educational purposes and not for use in treatment decisions. You should talk with your healthcare provider for specific information and advice about your condition, your individual situation, healthcare coverage, and any current or potential treatments.\nFor information about Ocrevus and vaccines other than the COVID-19 vaccines, please request the following medical letter:\n\uf0b7 Patient \u2013 Ocrevus and Vaccines in Multiple Sclerosis",
+  "context_len": 641,
+  "generated": [
+   {
+    "id": "0_doc_c2721c38-c8e9-4982-bfab-b50f300d997e_Patient - COVID-19 Vaccines in MS",
+    "question": "What is the primary purpose of the information provided in this letter?",
+    "answers": [
+     "The primary purpose of the information provided in this letter is for educational purposes only."
+    ],
+    "answer_len": 96
+   },
+   {
+    "id": "0_doc_c2721c38-c8e9-4982-bfab-b50f300d997e_Patient - COVID-19 Vaccines in MS",
+    "question": "What should patients do if they need specific information and advice about their condition or potential treatments?",
+    "answers": [
+     "Patients should talk with their healthcare provider for specific information and advice."
+    ],
+    "answer_len": 88
+   },
+   {
+    "id": "0_doc_c2721c38-c8e9-4982-bfab-b50f300d997e_Patient - COVID-19 Vaccines in MS",
+    "question": "What type of information is not included in this letter regarding Ocrevus treatment?",
+    "answers": [
+     "Information about Ocrevus and vaccines other than the COVID-19 vaccines is not included in this letter."
+    ],
+    "answer_len": 103
+   }
+  ]
+ },
+ {
+  "context": "Coronavirus: coronaviruses are a large family of viruses that cause illness ranging from the common cold to more severe diseases. The coronavirus strain that causes COVID-19 is called SARS-CoV-2.\nmRNA (messenger ribonucleic acid) vaccines: these are a relatively new type of vaccine. These vaccines tell our cells to make certain types of protein to trigger an immune response.\nNon-replicating viral vector vaccines: viral vector vaccines use a modified version of a harmless virus (the vector) to deliver important instructions to our cells. These vaccines will enter cells in our body, and then use the cell\u2019s machinery to produce a certain type of protein to trigger an immune response.\nProtein-based vaccines (also referred to as protein subunit vaccines): these are vaccines that use fragments of protein from the virus to trigger an immune response against it.\nIncubation period: for viral infections, this means the time from exposure to the appearance of symptoms.",
+  "context_len": 972,
+  "generated": [
+   {
+    "id": "0_doc_c2721c38-c8e9-4982-bfab-b50f300d997e_Patient - COVID-19 Vaccines in MS",
+    "question": "What is the name of the coronavirus strain that causes COVID-19?",
+    "answers": [
+     "SARS-CoV-2"
+    ],
+    "answer_len": 10
+   },
+   {
+    "id": "0_doc_c2721c38-c8e9-4982-bfab-b50f300d997e_Patient - COVID-19 Vaccines in MS",
+    "question": "What is the primary function of mRNA vaccines in the human body?",
+    "answers": [
+     "They tell our cells to make certain types of protein to trigger an immune response."
+    ],
+    "answer_len": 83
+   },
+   {
+    "id": "0_doc_c2721c38-c8e9-4982-bfab-b50f300d997e_Patient - COVID-19 Vaccines in MS",
+    "question": "What is the incubation period for viral infections, and what does it represent?",
+    "answers": [
+     "The incubation period is the time from exposure to the appearance of symptoms."
+    ],
+    "answer_len": 78
+   }
+  ]
+ },
+ {
+  "context": "\uf0b7 This is a summary about the use of the Coronavirus Disease 2019 (COVID-2019) vaccines in patients with multiple sclerosis who are treated with Ocrevus. Please review the entire content of this letter for additional details.\n\uf0b7 Prescribing Information1.\n\u25cb Before receiving Ocrevus, tell your healthcare provider if you have had a recent vaccine or are scheduled to receive any vaccines.\n\u25cb You should receive any required live or live-attenuated vaccinations at least 4 weeks before you start treatment with Ocrevus.\n\u25cb Additionally, you should receive non-live vaccinations, whenever possible, at least 2 weeks before you start treatment with Ocrevus.\n\u25cb You should not receive certain vaccines (called \u2018live\u2019 or \u2018live attenuated\u2019 vaccines) while you are being treated with Ocrevus, and until your healthcare provider tells you that your immune system is no longer weakened.\n\u25cb Patients should still consider receiving the seasonal, inactivated, flu vaccine while on Ocrevus. A protective response from the flu vaccine, though lessened, can occur.\n\u25cb Talk to your healthcare provider if you are planning on receiving any vaccines.",
+  "context_len": 1126,
+  "generated": [
+   {
+    "id": "0_doc_c2721c38-c8e9-4982-bfab-b50f300d997e_Patient - COVID-19 Vaccines in MS",
+    "question": "What should patients with multiple sclerosis who are treated with Ocrevus do before receiving the vaccine?",
+    "answers": [
+     "They should tell their healthcare provider if they have had a recent vaccine or are scheduled to receive any vaccines."
+    ],
+    "answer_len": 118
+   },
+   {
+    "id": "0_doc_c2721c38-c8e9-4982-bfab-b50f300d997e_Patient - COVID-19 Vaccines in MS",
+    "question": "How long before starting Ocrevus treatment should patients receive live or live-attenuated vaccinations?",
+    "answers": [
+     "At least 4 weeks before starting treatment with Ocrevus."
+    ],
+    "answer_len": 56
+   },
+   {
+    "id": "0_doc_c2721c38-c8e9-4982-bfab-b50f300d997e_Patient - COVID-19 Vaccines in MS",
+    "question": "What type of vaccine can patients with multiple sclerosis who are treated with Ocrevus still consider receiving while on the medication?",
+    "answers": [
+     "The seasonal, inactivated, flu vaccine."
+    ],
+    "answer_len": 39
+   }
+  ]
+ },
+ {
+  "context": "Coronaviruses are a large family of viruses that cause illness ranging from the common cold to more severe diseases, and the coronavirus causing COVID-2019 was a new strain that had not been previously identified in humans.\nIn addition to local Public Health guidance, or local guidance specifically issued by medical or patient associations, more information about COVID-19 can be found on the Centers for Control of Disease and Prevention (CDC) or the World Health Organization (WHO) websites:\n\uf0b7 CDC: https://www.cdc.gov/coronavirus/2019-ncov/index.html.\n\uf0b7 WHO: https://www.who.int/emergencies/diseases/novel-coronavirus-2019",
+  "context_len": 627,
+  "generated": [
+   {
+    "id": "0_doc_c2721c38-c8e9-4982-bfab-b50f300d997e_Patient - COVID-19 Vaccines in MS",
+    "question": "What is the range of illnesses caused by coronaviruses?",
+    "answers": [
+     "The common cold to more severe diseases."
+    ],
+    "answer_len": 40
+   },
+   {
+    "id": "0_doc_c2721c38-c8e9-4982-bfab-b50f300d997e_Patient - COVID-19 Vaccines in MS",
+    "question": "What is the name of the new strain of coronavirus causing COVID-2019?",
+    "answers": [
+     "A new strain that had not been previously identified in humans."
+    ],
+    "answer_len": 63
+   },
+   {
+    "id": "0_doc_c2721c38-c8e9-4982-bfab-b50f300d997e_Patient - COVID-19 Vaccines in MS",
+    "question": "Where can one find more information about COVID-19, in addition to local Public Health guidance?",
+    "answers": [
+     "The Centers for Control of Disease and Prevention (CDC) or the World Health Organization (WHO) websites."
+    ],
+    "answer_len": 104
+   }
+  ]
+ },
+ {
+  "context": "You should receive any required live or live-attenuated vaccinations at least 4 weeks before you start treatment with Ocrevus.1 Additionally, you should receive non-live vaccinations, whenever possible, at least 2 weeks before you start treatment with Ocrevus. Before receiving Ocrevus, tell your healthcare provider if you have had a recent vaccine or are scheduled to receive any vaccines.",
+  "context_len": 391,
+  "generated": [
+   {
+    "id": "0_doc_c2721c38-c8e9-4982-bfab-b50f300d997e_Patient - COVID-19 Vaccines in MS",
+    "question": "What is the recommended time frame for receiving live or live-attenuated vaccinations before starting treatment with Ocrevus?",
+    "answers": [
+     "At least 4 weeks"
+    ],
+    "answer_len": 16
+   },
+   {
+    "id": "0_doc_c2721c38-c8e9-4982-bfab-b50f300d997e_Patient - COVID-19 Vaccines in MS",
+    "question": "What type of vaccinations should be received as far in advance as possible before starting treatment with Ocrevus?",
+    "answers": [
+     "Non-live vaccinations"
+    ],
+    "answer_len": 21
+   },
+   {
+    "id": "0_doc_c2721c38-c8e9-4982-bfab-b50f300d997e_Patient - COVID-19 Vaccines in MS",
+    "question": "What should you inform your healthcare provider about before receiving Ocrevus?",
+    "answers": [
+     "A recent vaccine or any scheduled vaccines"
+    ],
+    "answer_len": 42
+   }
+  ]
+ },
+ {
+  "context": "You should not receive certain vaccines (called \u2018live\u2019 or \u2018live attenuated\u2019 vaccines) while you are being treated with Ocrevus and until your healthcare provider tells you that your immune system is no longer weakened.1 There are no data on the effects of live vaccines in people receiving Ocrevus.\nIf you would like to receive any non-live (inactivated) vaccines while you are being treated with Ocrevus, talk to your healthcare provider. Your healthcare provider will determine whether or not you should receive non-live vaccines while on Ocrevus.\nBased on how Ocrevus works, there may be an impact on your body\u2019s ability to respond to a vaccine.2 A study which included 102 people, looked at the body\u2019s immune response to certain vaccines after they received Ocrevus. Some of the vaccines studied included seasonal flu vaccine, tetanus vaccine, and pneumococcal vaccine. People who received Ocrevus mounted a response to the vaccines, but they had a lessened response than people who did not receive Ocrevus. The COVID-19 vaccines were not included in this study, as they were not in existence at the time.\nPatients should still consider receiving non-live (inactivated) vaccines while on Ocrevus.2 A protective response, though lessened, can occur. Talk to your healthcare provider if you are planning on receiving any vaccines.",
+  "context_len": 1332,
+  "generated": [
+   {
+    "id": "0_doc_c2721c38-c8e9-4982-bfab-b50f300d997e_Patient - COVID-19 Vaccines in MS",
+    "question": "What type of vaccines should you avoid receiving while being treated with Ocrevus?",
+    "answers": [
+     "Live or live attenuated vaccines."
+    ],
+    "answer_len": 33
+   },
+   {
+    "id": "0_doc_c2721c38-c8e9-4982-bfab-b50f300d997e_Patient - COVID-19 Vaccines in MS",
+    "question": "What should you do if you want to receive non-live (inactivated) vaccines while being treated with Ocrevus?",
+    "answers": [
+     "Talk to your healthcare provider to determine whether or not you should receive non-live vaccines."
+    ],
+    "answer_len": 98
+   },
+   {
+    "id": "0_doc_c2721c38-c8e9-4982-bfab-b50f300d997e_Patient - COVID-19 Vaccines in MS",
+    "question": "What was the outcome of the immune response to certain vaccines in people who received Ocrevus compared to those who did not?",
+    "answers": [
+     "People who received Ocrevus had a lessened response to the vaccines compared to those who did not receive Ocrevus."
+    ],
+    "answer_len": 114
+   }
+  ]
+ },
+ {
+  "context": "When a vaccine is live or live-attenuated, it means that the infectious agent (e.g., virus/bacteria/bug) has been \u201cattenuated\u201d or weakened. This is done so that the vaccine can trigger the body to have a natural immune response without actually causing the disease. There is a small chance that the attenuated vaccine can cause disease, especially in people who have a weakened immune system. Therefore it is not recommended that live or live-attenuated vaccines be given in people taking Ocrevus.",
+  "context_len": 497,
+  "generated": [
+   {
+    "id": "0_doc_c2721c38-c8e9-4982-bfab-b50f300d997e_Patient - COVID-19 Vaccines in MS",
+    "question": "What is the purpose of attenuating an infectious agent in a live or live-attenuated vaccine?",
+    "answers": [
+     "To trigger the body to have a natural immune response without actually causing the disease."
+    ],
+    "answer_len": 91
+   },
+   {
+    "id": "0_doc_c2721c38-c8e9-4982-bfab-b50f300d997e_Patient - COVID-19 Vaccines in MS",
+    "question": "What is a potential risk associated with live or live-attenuated vaccines?",
+    "answers": [
+     "There is a small chance that the attenuated vaccine can cause disease, especially in people who have a weakened immune system."
+    ],
+    "answer_len": 126
+   },
+   {
+    "id": "0_doc_c2721c38-c8e9-4982-bfab-b50f300d997e_Patient - COVID-19 Vaccines in MS",
+    "question": "Why are live or live-attenuated vaccines not recommended for people taking Ocrevus?",
+    "answers": [
+     "Because it is not recommended that live or live-attenuated vaccines be given in people taking Ocrevus."
+    ],
+    "answer_len": 102
+   }
+  ]
+ },
+ {
+  "context": "When a vaccine is non-live, or inactivated, it means the infectious agent is killed. Therefore, unlike live attenuated vaccines, a non-live vaccine cannot cause the disease. Also, non-live vaccines trigger a weaker immune response than live attenuated vaccines.",
+  "context_len": 261,
+  "generated": [
+   {
+    "id": "0_doc_c2721c38-c8e9-4982-bfab-b50f300d997e_Patient - COVID-19 Vaccines in MS",
+    "question": "What happens to the infectious agent in a non-live, or inactivated, vaccine?",
+    "answers": [
+     "The infectious agent is killed."
+    ],
+    "answer_len": 31
+   },
+   {
+    "id": "0_doc_c2721c38-c8e9-4982-bfab-b50f300d997e_Patient - COVID-19 Vaccines in MS",
+    "question": "Can a non-live vaccine cause the disease it is designed to prevent?",
+    "answers": [
+     "No, it cannot cause the disease."
+    ],
+    "answer_len": 32
+   },
+   {
+    "id": "0_doc_c2721c38-c8e9-4982-bfab-b50f300d997e_Patient - COVID-19 Vaccines in MS",
+    "question": "How does the immune response triggered by a non-live vaccine compare to that triggered by a live attenuated vaccine?",
+    "answers": [
+     "The immune response triggered by a non-live vaccine is weaker."
+    ],
+    "answer_len": 62
+   }
+  ]
+ },
+ {
+  "context": "The Emergency Use Authorization (EUA) is a mechanism which allows FDA to authorize unapproved medical products (like vaccines) to be used during public health emergencies. The FDA uses the available safety and effectiveness data to decide to issue an EUA. The EUA is not meant to remain in effect permanently.\nFull approval is granted when the FDA has established that enough evidence is available to support use of a particular medical product.\nAdditional information can be found in the FDA website:\nhttps://www.fda.gov/vaccines-blood-biologics/vaccines/emergency-use-authorization- vaccines-explained",
+  "context_len": 603,
+  "generated": [
+   {
+    "id": "0_doc_c2721c38-c8e9-4982-bfab-b50f300d997e_Patient - COVID-19 Vaccines in MS",
+    "question": "What is the primary purpose of the Emergency Use Authorization (EUA) mechanism by the FDA?",
+    "answers": [
+     "The primary purpose of the Emergency Use Authorization (EUA) mechanism by the FDA is to allow unapproved medical products to be used during public health emergencies."
+    ],
+    "answer_len": 166
+   },
+   {
+    "id": "0_doc_c2721c38-c8e9-4982-bfab-b50f300d997e_Patient - COVID-19 Vaccines in MS",
+    "question": "What happens to the EUA once it is issued by the FDA?",
+    "answers": [
+     "The EUA is not meant to remain in effect permanently."
+    ],
+    "answer_len": 53
+   },
+   {
+    "id": "0_doc_c2721c38-c8e9-4982-bfab-b50f300d997e_Patient - COVID-19 Vaccines in MS",
+    "question": "What is required for the FDA to grant full approval for a medical product?",
+    "answers": [
+     "The FDA requires that enough evidence is available to support use of a particular medical product before granting full approval."
+    ],
+    "answer_len": 128
+   }
+  ]
+ },
+ {
+  "context": "The CDC recommends a COVID-19 vaccination for everyone ages 6 months and older in the United States for the prevention of COVID-19. There is currently no FDA-approved or FDA- authorized COVID-19 vaccine for children younger than age 6 months. The CDC recommends that people stay up to date with the COVID-19 vaccination.\nCDC COVID-19 Vaccine Recommendations and Dosing Schedule for People who are Moderately or Severely Immunocompromised: https://www.cdc.gov/coronavirus/2019-ncov/vaccines/recommendations/immuno.html",
+  "context_len": 517,
+  "generated": [
+   {
+    "id": "0_doc_c2721c38-c8e9-4982-bfab-b50f300d997e_Patient - COVID-19 Vaccines in MS",
+    "question": "What is the minimum age recommended by the CDC for COVID-19 vaccination in the United States?",
+    "answers": [
+     "6 months"
+    ],
+    "answer_len": 8
+   },
+   {
+    "id": "0_doc_c2721c38-c8e9-4982-bfab-b50f300d997e_Patient - COVID-19 Vaccines in MS",
+    "question": "What is currently not available for children younger than 6 months according to the CDC?",
+    "answers": [
+     "FDA-approved or FDA-authorized COVID-19 vaccine"
+    ],
+    "answer_len": 47
+   },
+   {
+    "id": "0_doc_c2721c38-c8e9-4982-bfab-b50f300d997e_Patient - COVID-19 Vaccines in MS",
+    "question": "What does the CDC recommend for people to stay protected against COVID-19?",
+    "answers": [
+     "Staying up to date with the COVID-19 vaccination"
+    ],
+    "answer_len": 48
+   }
+  ]
+ },
+ {
+  "context": "The COVID-19 mRNA vaccines do not contain live virus (i.e., they are considered \"non-live\" vaccines), and will not cause an infection.4 More information on mRNA vaccines can be found on the CDC website:\nhttps://www.cdc.gov/coronavirus/2019-ncov/vaccines/different-vaccines/mrna.html.\nThe two mRNA vaccines were the first mRNA vaccines to be authorized for use in any disease. This is a new and unique situation, and we are working as fast as possible to try and understand how these mRNA vaccines may interact with Ocrevus in the body.",
+  "context_len": 535,
+  "generated": [
+   {
+    "id": "0_doc_c2721c38-c8e9-4982-bfab-b50f300d997e_Patient - COVID-19 Vaccines in MS",
+    "question": "What is a characteristic of the COVID-19 mRNA vaccines?",
+    "answers": [
+     "They are considered \"non-live\" vaccines."
+    ],
+    "answer_len": 40
+   },
+   {
+    "id": "0_doc_c2721c38-c8e9-4982-bfab-b50f300d997e_Patient - COVID-19 Vaccines in MS",
+    "question": "What can be found on the CDC website for more information about mRNA vaccines?",
+    "answers": [
+     "More information on mRNA vaccines can be found on the CDC website."
+    ],
+    "answer_len": 66
+   },
+   {
+    "id": "0_doc_c2721c38-c8e9-4982-bfab-b50f300d997e_Patient - COVID-19 Vaccines in MS",
+    "question": "What is a unique situation regarding the COVID-19 mRNA vaccines?",
+    "answers": [
+     "They were the first mRNA vaccines to be authorized for use in any disease."
+    ],
+    "answer_len": 74
+   }
+  ]
+ },
+ {
+  "context": "The protein-based vaccine includes harmless fragments (pieces of proteins) of the virus that causes COVID-19, and will not cause an infection.5 More information on protein-based vaccines can be found on the CDC website:\nhttps://www.cdc.gov/coronavirus/2019-ncov/vaccines/different-vaccines/how-they- work.html.\nTable 1: Summary of Currently Available COVID-19 Vaccines: Vaccine: Comirnaty (Pfizer/BioNTech)6,7 Typeof Vaccine: mRNA Is it a Live Vaccine?: No Primary Series*: FDA-approved: \uf0b312 y/oEUA: \uf0b36 months-old Additional Dose?**: EUA: \u22655 y/o Booster Dose?: EUA: \u22655 y/o.\nTable 1: Summary of Currently Available COVID-19 Vaccines: Vaccine: Spikevax (Moderna)8-10 Typeof Vaccine: mRNA Is it a Live Vaccine?: No Primary Series*: FDA-approved: \uf0b318 y/oEUA: \u22656 months-old Additional Dose?**: EUA: \u22656 months-old Booster Dose?: EUA: \u2265 6 months-old.\nNovavax11: Protein-based: No: EUA: \uf0b312 y/o: N/A: EUA: \u226518 y/o: Notes:*Indication: to prevent COVID-19 disease**Additional Dose: administered at least 28 days in individuals who have undergone solid organ transplantation, or who are diagnosed with conditions that are considered to have an equivalent level of immunocompromise.Abbreviations: EUA=emergency use authorization; FDA=Food and Drug Administration; mRNA=messenger ribonucleic acid; N/A=not available; y/o=years old.",
+  "context_len": 1318,
+  "generated": [
+   {
+    "id": "0_doc_c2721c38-c8e9-4982-bfab-b50f300d997e_Patient - COVID-19 Vaccines in MS",
+    "question": "What type of vaccine is the Novavax COVID-19 vaccine?",
+    "answers": [
+     "Protein-based"
+    ],
+    "answer_len": 13
+   },
+   {
+    "id": "0_doc_c2721c38-c8e9-4982-bfab-b50f300d997e_Patient - COVID-19 Vaccines in MS",
+    "question": "What is the minimum age requirement for the primary series of the Comirnaty (Pfizer/BioNTech) vaccine in the United States?",
+    "answers": [
+     "\u226512 y/o"
+    ],
+    "answer_len": 7
+   },
+   {
+    "id": "0_doc_c2721c38-c8e9-4982-bfab-b50f300d997e_Patient - COVID-19 Vaccines in MS",
+    "question": "What is the minimum age requirement for an additional dose of the Spikevax (Moderna) vaccine in the United States?",
+    "answers": [
+     "\u22656 months-old"
+    ],
+    "answer_len": 13
+   }
+  ]
+ },
+ {
+  "context": "There have been published experience with the use of the COVID-19 vaccines in patients receiving Ocrevus.\nOcrevus treatment decisions should be made between a patient and their treating neurologist or other medical professional based on a benefit/risk assessment specific to the individual patient, considering the Ocrevus and vaccine approved prescribing information.\nAre the current COVID-19 vaccines safe to use with Ocrevus?",
+  "context_len": 428,
+  "generated": [
+   {
+    "id": "0_doc_c2721c38-c8e9-4982-bfab-b50f300d997e_Patient - COVID-19 Vaccines in MS",
+    "question": "What should be considered when making treatment decisions for patients receiving Ocrevus?",
+    "answers": [
+     "A benefit/risk assessment specific to the individual patient."
+    ],
+    "answer_len": 61
+   },
+   {
+    "id": "0_doc_c2721c38-c8e9-4982-bfab-b50f300d997e_Patient - COVID-19 Vaccines in MS",
+    "question": "Who should make treatment decisions for patients receiving Ocrevus?",
+    "answers": [
+     "A patient and their treating neurologist or other medical professional."
+    ],
+    "answer_len": 71
+   },
+   {
+    "id": "0_doc_c2721c38-c8e9-4982-bfab-b50f300d997e_Patient - COVID-19 Vaccines in MS",
+    "question": "What should be taken into account when considering the use of COVID-19 vaccines in patients receiving Ocrevus?",
+    "answers": [
+     "The Ocrevus and vaccine approved prescribing information."
+    ],
+    "answer_len": 57
+   }
+  ]
+ },
+ {
+  "context": "There was a study in 555 adult patients with MS (including 62 patients on Ocrevus) who received at least one dose of the Pfizer/BioNTech mRNA COVID-19 vaccine.12 There were no events of anaphylaxis or life-threatening adverse reactions reported with the vaccine. Overall, the rates of adverse reactions in this study were similar to what has been reported in other studies of people without MS who received the Pfizer/BioNTech mRNA COVID-19 vaccine. Additionally, the rates of relapses were similar in the patients in this study compared with non- vaccinated MS patients in the past.",
+  "context_len": 583,
+  "generated": [
+   {
+    "id": "0_doc_c2721c38-c8e9-4982-bfab-b50f300d997e_Patient - COVID-19 Vaccines in MS",
+    "question": "How many adult patients with MS participated in the study mentioned?",
+    "answers": [
+     "555"
+    ],
+    "answer_len": 3
+   },
+   {
+    "id": "0_doc_c2721c38-c8e9-4982-bfab-b50f300d997e_Patient - COVID-19 Vaccines in MS",
+    "question": "What was the outcome regarding anaphylaxis or life-threatening adverse reactions in the study?",
+    "answers": [
+     "No events were reported."
+    ],
+    "answer_len": 24
+   },
+   {
+    "id": "0_doc_c2721c38-c8e9-4982-bfab-b50f300d997e_Patient - COVID-19 Vaccines in MS",
+    "question": "Were the rates of relapses in the vaccinated patients similar to those in non-vaccinated MS patients in the past?",
+    "answers": [
+     "Yes, they were similar."
+    ],
+    "answer_len": 23
+   }
+  ]
+ },
+ {
+  "context": "Certain types of immune cells, like B cells and T cells, are available to fight viral infections.13 Based on how Ocrevus works (effects on certain B cells), there may be an impact on your body\u2019s ability to respond to a vaccine.2,14 Ocrevus does not appear to have an effect on most T cells.15.\nEarly reports suggest that there is a lessened antibody response after a COVID-19 vaccine in patients who are treated with Ocrevus.16-18 Some evidence suggests that the longer interval from the last infusion of Ocrevus may lead to a greater antibody response, but more studies are needed to establish that.\nAdditionally, some reports have evaluated T cell responses to COVID-19 vaccines, and have found that patients who are treated with Ocrevus develop a similar T cell response as other patients not treated with medications.16,17 There is some early evidence that T cells may provide some protective immunity to the COVID-19, but more studies are required.\nMore studies are required (and currently underway) to better understand the important roles that B cells and T cells play in the body's response to COVID-19 vaccines, and how this translates to future protection against COVID-19.\nThe National MS Society (NMSS) website has some information on the potential effects on some MS treatments on the effectiveness of COVID-19 vaccines. Additionally, they discuss whether antibody tests should or should not be used to determine immunity or protection against COVID-19 after infection or after receiving the COVID-19 vaccine:\nhttps://www.nationalmssociety.org/coronavirus-covid-19-information/multiple-sclerosis- and-coronavirus/covid-19-vaccine-guidance/Vaccine-Effectiveness-and-MS",
+  "context_len": 1680,
+  "generated": [
+   {
+    "id": "0_doc_c2721c38-c8e9-4982-bfab-b50f300d997e_Patient - COVID-19 Vaccines in MS",
+    "question": "What type of immune cells does Ocrevus appear to have an effect on?",
+    "answers": [
+     "B cells"
+    ],
+    "answer_len": 7
+   },
+   {
+    "id": "0_doc_c2721c38-c8e9-4982-bfab-b50f300d997e_Patient - COVID-19 Vaccines in MS",
+    "question": "What is suggested to lead to a greater antibody response in patients treated with Ocrevus?",
+    "answers": [
+     "A longer interval from the last infusion of Ocrevus"
+    ],
+    "answer_len": 51
+   },
+   {
+    "id": "0_doc_c2721c38-c8e9-4982-bfab-b50f300d997e_Patient - COVID-19 Vaccines in MS",
+    "question": "How do patients treated with Ocrevus compare to others in terms of T cell response to COVID-19 vaccines?",
+    "answers": [
+     "They develop a similar T cell response."
+    ],
+    "answer_len": 39
+   }
+  ]
+ },
+ {
+  "context": "If you would like to receive any non-live vaccines while you are being treated with Ocrevus, talk to your healthcare provider. Your healthcare provider will determine whether or not you should receive non-live vaccines while on Ocrevus.\nThe following websites offer some guidance on the use of the COVID-19 vaccines:\n\uf0b7 CDC: https://www.cdc.gov/coronavirus/2019-ncov/vaccines/index.html.\n\uf0b7 NMSS: https://www.nationalmssociety.org/coronavirus-covid-19-information/multiple- sclerosis-and-coronavirus/covid-19-vaccine-guidance",
+  "context_len": 523,
+  "generated": [
+   {
+    "id": "0_doc_c2721c38-c8e9-4982-bfab-b50f300d997e_Patient - COVID-19 Vaccines in MS",
+    "question": "What should you do if you want to receive non-live vaccines while being treated with Ocrevus?",
+    "answers": [
+     "Talk to your healthcare provider."
+    ],
+    "answer_len": 33
+   },
+   {
+    "id": "0_doc_c2721c38-c8e9-4982-bfab-b50f300d997e_Patient - COVID-19 Vaccines in MS",
+    "question": "What will your healthcare provider determine regarding non-live vaccines while on Ocrevus?",
+    "answers": [
+     "Whether or not you should receive non-live vaccines."
+    ],
+    "answer_len": 52
+   },
+   {
+    "id": "0_doc_c2721c38-c8e9-4982-bfab-b50f300d997e_Patient - COVID-19 Vaccines in MS",
+    "question": "Where can you find guidance on the use of COVID-19 vaccines?",
+    "answers": [
+     "The CDC and NMSS websites."
+    ],
+    "answer_len": 26
+   }
+  ]
+ },
+ {
+  "context": "Ocrevus\u00ae [package insert]. Genentech; South San Francisco, CA..\nBar-Or A, Calkwood JC, Chognot C, et al. Effect of ocrelizumab on vaccine responses in patients with multiple sclerosis: The VELOCE study. Neurology 2020;95:e1999-e2008.\nU.S. Department of Health & Human Services. Types of Vaccines. Available at https://www.vaccines.gov/basics/types/index.html.\nCenters for Disease Control and Prevention. Understanding mRNA COVID-19 Vaccines (For Patients). Available at https://www.cdc.gov/coronavirus/2019-ncov/vaccines/different-vaccines/mrna.html.\nCenters for Disease Control and Prevention. Understanding How COVID-19 Vaccines Work. Available at https://www.cdc.gov/coronavirus/2019-ncov/vaccines/different-vaccines/how-they-work.html. Accessed on July 21, 2022.\nCOMIRNATY\u00ae [package insert]. Pfizer Inc.; New York, NY.\nFood and Drug Administration (FDA). Vaccine information fact sheet for recipients and caregivers about Comirnaty (COVID-19 vaccine, mRNA) and Pfizer-BioNTech COVID-19 vaccine to prevent coronavirus disease 2019 (COVID-19). Available at https://www.fda.gov/media/144414/download. Accessed on January 10, 2023.\nFood and Drug Administration (FDA). Fact sheet for recipients and caregivers: Emergency use authorization (EUA) of the Moderna COVID-19 vaccine to prevent coronavirus disease 2019 (COVID-19) in individuals 12 years of age and older. Available at https://www.fda.gov/media/144638/download.\nFood and Drug Administration (FDA). Fact sheet for recipients and caregivers: Emergency use authorization (EUA) of the Moderna COVID-19 vaccine to prevent coronavirus disease 2019 (COVID-19) in individuals 6 months through 5 years of age. Available at https://www.fda.gov/media/159309/download. Accessed on January 10, 2023.\nSpikevax\u2122 [package insert]. ModernaTX, Inc.; Cambridge, MA.\nFood and Drug Administration (FDA). Fact sheet for recipients and caregivers: Emergency use authorization (EUA) of the Novavax COVID-19 vaccine, adjuvanted to prevent coronavirus disease 2019 (COVID-19). Available at https://www.fda.gov/media/159898/download. Accessed on January 10, 2023.\nAchiron A, Dolev M, Menascu S, et al. COVID-19 vaccination in patients with multiple sclerosis: What we have learnt by February 2021. Mult Scler. E-pub Date: April 2021. DOI # 10.1177/13524585211003476..\nBertoletti A, Tan AT, Bert NL. The T-cell response to SARS-CoV-2: kinetic and quantitative aspects and the case for their protective role. Oxford Open Immunology. E-pub Date: February 2021. DOI # 10.1093/oxfimm/iqab006. https://academic.oup.com/ooim/article/2/1/iqab006/6146940.\nI KMMMeaK. Preliminary Results of Ongoing, Prospective Study of Antibody and T-Cell Responses to SARS- CoV-2 in Patients With MS on Ocrelizumab or Other Disease-Modifying Therapies. Presented at the American Academy of Neurology Virtual Annual Meeting 2021 https://www.aan.com/conferences-community/annual- meeting/\nHauser SL, Bar-Or A, Comi G, et al. Ocrelizumab versus Interferon Beta-1a in Relapsing Multiple Sclerosis [supplementary appendix appears online]. N Engl J Med 2017;376:221-234. https://www.ncbi.nlm.nih.gov/pubmed/28002679.\nBrill L, Rechtman A, Zveik O, et al. Humoral and T-Cell Response to SARS-CoV-2 Vaccination in Patients With Multiple Sclerosis Treated With Ocrelizumab. JAMA Neurol 2021;https://www.ncbi.nlm.nih.gov/pubmed/34554197.\nApostolidis S, Kakara M, Painter M, et al. Cellular and humoral immune responses following SARS-CoV-2 mRNA vaccination in patients with multiple sclerosis on anti-CD20 therapy. Nat Med 2021;https://www.ncbi.nlm.nih.gov/pubmed/34522051.\nSormani M, Inglese M, Schiavetti I, et al. Effect of SARS-CoV-2 mRNA vaccination in MS patients treated with disease modifying therapies. EBioMedicine 2021;103581. https://www.ncbi.nlm.nih.gov/pubmed/34563483",
+  "context_len": 3779,
+  "generated": [
+   {
+    "id": "0_doc_c2721c38-c8e9-4982-bfab-b50f300d997e_Patient - COVID-19 Vaccines in MS",
+    "question": "What type of vaccines are mRNA vaccines, according to the Centers for Disease Control and Prevention?",
+    "answers": [
+     "mRNA vaccines are a type of vaccine that uses a piece of genetic material called messenger RNA (mRNA) to instruct cells in the body to make a protein that triggers an immune response."
+    ],
+    "answer_len": 183
+   },
+   {
+    "id": "0_doc_c2721c38-c8e9-4982-bfab-b50f300d997e_Patient - COVID-19 Vaccines in MS",
+    "question": "Which of the following vaccines is an adjuvanted COVID-19 vaccine, as per the Food and Drug Administration (FDA)?",
+    "answers": [
+     "Novavax COVID-19 vaccine, adjuvanted."
+    ],
+    "answer_len": 37
+   },
+   {
+    "id": "0_doc_c2721c38-c8e9-4982-bfab-b50f300d997e_Patient - COVID-19 Vaccines in MS",
+    "question": "What is the name of the study that investigated the effect of ocrelizumab on vaccine responses in patients with multiple sclerosis?",
+    "answers": [
+     "The VELOCE study."
+    ],
+    "answer_len": 17
+   }
+  ]
+ }
+]
