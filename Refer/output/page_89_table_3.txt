@@ -1,5 +1,0 @@
-Page 89, Table 3
-Cumulative amount of fair value hedging adjustment included in the carrying amount
-of the hedged liabilities: (4,512), (113)
-Cumulative amount of fair value hedging adjustment remaining for which hedge
-accounting has been discontinued: 488, 575

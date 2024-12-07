@@ -1,0 +1,11 @@
+peft==0.4.0
+datasets
+transformers
+rouge_score
+tqdm
+bert_score
+scikit-learn  # for evaluation metrics
+numpy 
+scipy 
+torch 
+nltk  
